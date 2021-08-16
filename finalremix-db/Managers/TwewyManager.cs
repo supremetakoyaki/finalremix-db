@@ -918,6 +918,27 @@ namespace FinalRemixDb
             return GetItem(Id);
         }
 
+        public int GetSaveIndex(TwewyItem Item)
+        {
+            if (Item == null)
+            {
+                return -1;
+            }
+
+            switch (Item.Type)
+            {
+                case 0:
+                default:
+                    return Item.Index;
+
+                case 1:
+                    return Item.Index + 280;
+
+                case 2:
+                    return Item.Index + 323;
+            }
+        }
+
         public TwewyPin GetPin(ushort Id)
         {
             if (Pins.ContainsKey(Id))
