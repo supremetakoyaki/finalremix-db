@@ -1,0 +1,353 @@
+Neku
+Shiki
+Joshua
+Beat
+Attacco
+Difesa
+PF
+Coraggio
+Tasso ritrovamenti
+Tasso di sincronizzazione
+Coraggio minimo
+Amici
+Rumore
+Oggetti
+Spille
+Capitoli
+Tin Pin
+Socializza
+Imprese
+[#FF0000]Angelo[#000000]
+[#FF0000]Demone[#000000]
+[#FF0000]A[#000000]
+[#FF0000]B[#000000]
+[#FF0000]C[#000000]
+------
+------
+------
+------
+/
+\xff\xd2 [#0808FF]+\xff\xd1
+\xff\xd2 [#FF0000]-\xff\xd1
+\xff\xd0/\xff\xd0
+Per attivare: \xff\xd2
+Tocca la spilla
+Colpisci Neku con un fendente
+Premi Neku
+Trascina Neku
+Scuoti il dispositivo
+Colpisci un nemico con un fendente
+Tocca un nemico
+Tocca rapidamente un nemico
+Gratta un nemico
+Premi un nemico
+Premi un nemico
+Colpisci un ostacolo con un fendente
+Tocca un ostacolo
+Premi un ostacolo
+Trascina un ostacolo
+Fendente su un nemico/ostacolo
+Tocca un nemico/ostacolo
+Trascina un nemico/ostacolo
+Fendente in uno spazio vuoto
+Tocca uno spazio vuoto
+Tocca rapidamente uno spazio vuoto
+Gratta uno spazio vuoto
+Premi uno spazio vuoto
+Trascina uno spazio vuoto
+------
+Dura [#FF0000]\xff\xd0.\xff\xd0[#000000] sec.
+Dura [#FF0000]\xff\xd0[#000000] utilizzi
+Dura [#FF0000]\xff\xd0[#000000] utilizzo
+Attivazione istantanea
+Utilizzabile dopo [#FF0000]\xff\xd0,\xff\xd0[#000000] sec.
+------
+Si riattiva dopo [#FF0000]\xff\xd0,\xff\xd0[#000000] sec.
+Vestiti: 
+Cappelli
+Pezzo sopra
+Pezzo sotto
+Pezzo sopra e sotto
+Calzature
+Accessori
+Alimento
+Bottino
+Data salvata
+Ora salvata
+Capitolo
+Area
+\xff\xd0/\xff\xd0\xff\xd0/\xff\xd0\xff\xd0
+\xff\xd2 \xff\xd0, \xff\xd0
+\xff\xd0\xff\xd0:\xff\xd0\xff\xd0
+\xff\xd0:\xff\xd0\xff\xd0 AM
+\xff\xd0:\xff\xd0\xff\xd0 PM
+\xff\xd2, Giorno \xff\xd0
+\x22Un altro giorno\x22
+[#FF0000]Tempo di gioco:  \xff\xd0 h \xff\xd0 m
+Gen.
+Feb.
+Mar.
+Apr.
+Mag.
+Giu.
+Lug.
+Ago.
+Set.
+Ott.
+Nov.
+Dic.
+Vuoi salvare i tuoi progressi?\nPiù tardi potrai riprendere da questo punto.
+[#0808FF]Salvataggio in corso... Non spegnere il dispositivo\ne non rimuovere la scheda di gioco!
+Salvataggio completato.
+Controllo dati\nSi prega di non spegnere
+Controllo dati terminato.\n\nQuesto gioco salva automaticamente.\nUn'icona di salvataggio sarà visualizzata\nogni volta che i tuoi progressi verranno\nsalvati.
+Carica i tuoi dati salvati.
+Caricamento in corso...
+Caricamento completato.
+Tocca il pulsante Salva... SALVA\nPremi il pulsante B... CARICA
+Inizializzazione memoria di backup in corso...
+Memoria di backup inizializzata.
+Impossibile leggere i dati salvati.
+Impossibile scrivere i dati salvati.
+Sensitivi
+Civili
+Alieni
+Grado Sensitivo
+Punti Sensitivo
+Report Rumori
+Maestria spille
+Collezione oggetti
+Attacco a tempo finale
+\xff\xd0 punti
+\xff\xd0 punto
+\xff\xd0 tipi
+\xff\xd0 tipo
+\xff\xd0,\xff\xd0 %
+\xff\xd0\xff\xd0:\xff\xd0\xff\xd0:\xff\xd0\xff\xd0
+\xff\xd0:\xff\xd0\xff\xd0:\xff\xd0\xff\xd0
+\xff\xd0
+--
+★
+A
+B
+C
+D
+E
+Dio
+Diavolo
+Angelo
+Angelo caduto
+Compositore
+Direttore
+Demone
+Giocatore maestro
+Sovrannaturale
+Piegatore di cucchiai
+Solo umano
+Rivedi le tue informazioni.
+I contenuti mostrati in alto verranno inviati.\nDopo la socializzazione, la tua partita verrà salvata.
+Termina le comunicazioni quando\nla luce di alimentazione è rossa
+Le comunicazioni terminano quando questo\nconteggio della socializzazione raggiunge lo zero
+Termina le comunicazioni e salva
+Si è accesa la luce di alimentazione rossa!\nComunicazioni terminate.
+Puoi socializzare con altre \xff\xd0 persone.
+Puoi socializzare con \xff\xd0 altra persona.
+Stai socializzando!\nSe lo desideri puoi chiudere il tuo DS.\nLa festa continuerà anche senza di te.
+Termine delle comunicazioni.
+Hai raggiunto la tua quota di socializzazione!\nComunicazioni terminate.\nTocca [#FF0000]FINE![#000000] per salvare.
+[#FF0000]Salvataggio in corso... Non spegnere il dispositivo\ne non rimuovere la scheda di gioco!
+Hai incontrato [#FF0000]\xff\xd2[#000000]!
+Hai guadagnato [#FF0000]$\xff\xd0[#000000]!
+Hai incontrato [#FF0000]\xff\xd2[#000000] di nuovo, ma
+ogni persona conta solo una volta all'ora.
+Hai incontrato [#FF0000]\xff\xd2[#000000]...
+[#FF0000]Apri il tuo negozio nella Modalità Socializzazione[#000000]
+un matto
+il male di vivere
+un plutoniano
+un gioviano
+una forma di vita sconosciuta
+una serie di sfortune
+la tua grande occasione
+l'amore della tua vita
+il vento del cambiamento
+proprio quel che ti serviva
+un vecchio rimpianto
+un chiodo fisso
+un ricordo d'infanzia
+l'eroe dentro di te
+uno slancio di passione
+quel sentimento d'amore
+il principe azzurro
+un ammiratore segreto
+il tuo amante futuro
+la speranza per il futuro
+la vera felicità
+uno spirito vendicativo
+l'impossibile
+la burrasca
+una magia maligna
+il tizio davanti a te
+il suo sguardo
+il nemico
+tu tra 20 anni
+un altro te
+Abilità bloccata
+Non possiedi ancora l'abilità di questo oggetto. Per acquisirla, dovrai [#FF0000]fare amicizia con il commesso del negozio giusto[#000000] per ottenere [#FF0000]informazioni riservate[#000000].
+\xff\xd2 Abilità
+Abilità
+Questa è un'[#FF0000]abilità[#000000] che funziona semplicemente indossando la spilla.\nFalla aumentare di livello per accrescere il suo valore.
+Questo è uno psico [#FF0000]positivo[#000000]. Fallo aumentare di livello per accrescere il suo Attacco.
+Questo è uno psico [#FF0000]negativo[#000000]. Fallo aumentare di livello per accrescere il suo Attacco.
+Fallo aumentare di livello per accrescere il suo potere.
+Spilla abilità
+Positiva
+Negativa
+Neutra
+Consuma questo alimento per [#FF0000]potenziare il tuo tasso di sincronizzazione del \xff\xd0% circa[#000000]. Una volta che l'avrai digerito combattendo in battaglia, il tuo Attacco aumenterà di \xff\xd0[#000000].
+Consuma questo alimento per [#FF0000]potenziare il tuo tasso di sincronizzazione del \xff\xd0% circa[#000000]. Una volta che l'avrai digerito combattendo in battaglia, la tua Difesa aumenterà di \xff\xd0[#000000].
+Consuma questo alimento per [#FF0000]potenziare il tuo tasso di sincronizzazione del \xff\xd0% circa[#000000]. Una volta che l'avrai digerito combattendo in battaglia, i tuoi PF max aumenteranno di \xff\xd0[#000000].
+Consuma questo alimento per [#FF0000]potenziare il tuo tasso di sincronizzazione del \xff\xd0% circa[#000000]. Una volta che l'avrai digerito combattendo in battaglia, il tuo Coraggio aumenterà di \xff\xd0[#000000].
+Consuma questo alimento per [#FF0000]potenziare il tuo tasso di sincronizzazione del \xff\xd0% circa[#000000]. Una volta che l'avrai digerito combattendo in battaglia, il tuo tasso di ritrovamenti aumenterà di \xff\xd0[#000000].
+Consuma questo alimento per [#FF0000]potenziare il tuo tasso di sincronizzazione del \xff\xd0%[#000000]. Una volta che l'avrai digerito combattendo in battaglia, [#FF0000]raggiungerai un tasso di sincronizzazione del \xff\xd0%[#000000].
+Consumare questo alimento in battaglia ti consentirà di [#FF0000]aumentare l'attacco, la difesa e il coraggio di 10[#000000] e [#FF0000]i PF massimi di 100[#000000].
+Digerito con \xff\xd0 byte.
+Digerito con \xff\xd0 byte.
+
+[#FF0000]Non commestibile[#000000]!
+Almeno non se vuoi evitare il mal di\nstomaco più forte della tua vita.
+È [#FF0000]troppo presto[#000000] per consumare questo alimento!
+Hai la pancia piena. Stai quasi per scoppiare.\nCombatti qualche battaglia e fai un po' di spazio!
+È [#FF0000]troppo tardi[#000000] per consumare questo alimento!
+Dovrai aspettare fino a [#FF0000]domani[#000000] (tempo reale)\nprima di poterlo mandar giù.
+Non hai abbastanza [#FF0000]coraggio[#000000] per indossarlo!
+Il tuo indice di [#FF0000]COR[#000000] deve essere più alto\nse hai intenzione di mettertelo addosso.
+[#FF0000]Non puoi vestirti a strati[#000000] in quel modo!
+Non puoi indossare [#FF0000]due capi di vestiario nello stesso punto[#000000].\nPerché? Perché no. Fine.
+[#FF0000]Non indossabile[#000000]!
+Ma se ci provassi,\nti faresti senz'altro notare.
+Non puoi indossare altre spille\ndi questo tipo.
+[#FF0000]Non puoi gettare questa spilla![#000000]\nVale più di tutti gli yen\ndel mondo.
+La tua riserva è piena!\nPuò contenere solo [#FF0000]200 spille[#000000].\nScarta [#FF0000]altre\xff\xd0 spille[#000000] dalla tua riserva o dai tuoi set.
+La tua riserva è piena!\nPuò contenere solo [#FF0000]200 spille[#000000].\nScarta [#FF0000]\xff\xd0 altra spilla[#000000] dalla tua riserva o dai tuoi set.
+Hai superato il [#FF0000]limite di classe[#000000]!\nPuoi indossare [#FF0000]una sola spilla di classe Angelo[#000000]\nalla volta.
+Hai superato il [#FF0000]limite di classe[#000000]!\nPuoi indossare [#FF0000]una sola spilla di classe Demone[#000000]\nalla volta.
+Hai superato il [#FF0000]limite di classe[#000000]!\nNon puoi indossare più di [#FF0000]una spilla di classe A[#000000]\ncon lo [#FF0000]stesso psico (PSY)[#000000].
+Hai superato il [#FF0000]limite di classe[#000000]!\nNon puoi indossare più di [#FF0000]due spille di classe B[#000000]\ncon lo [#FF0000]stesso psico (PSY)[#000000].
+Hai superato il [#FF0000]limite di classe[#000000]!\nNon puoi indossare più di [#FF0000]tre spille di classe C[#000000]\ncon lo [#FF0000]stesso psico (PSY)[#000000].
+Attenzione:\nil tuo [#FF0000]portafogli[#000000] è pieno, perciò scartare\naltre spille non ti frutterà altro [#FF0000]denaro[#000000].
+[#0808FF]\xff\xd2[#000000]
+× \xff\xd0
+...Possiedi: \xff\xd0
+...[#FF0000]Possiedi: \xff\xd0
+[#FF0000]$\xff\xd0
+$ \xff\xd0
+$ \xff\xd0.\xff\xd0\xff\xd0\xff\xd0
+$ \xff\xd0.\xff\xd0\xff\xd0\xff\xd0.\xff\xd0\xff\xd0\xff\xd0
+[#FF0000]$ \xff\xd0
+[#FF0000]$ \xff\xd0.\xff\xd0\xff\xd0\xff\xd0
+[#FF0000]$ \xff\xd0.\xff\xd0\xff\xd0\xff\xd0.\xff\xd0\xff\xd0\xff\xd0
+Comprare questa merce?
+Gettare questa spilla?
+[#FF0000]Organizza le tue spille[#000000] 
+Ordina per numero.
+Ordina sempre per numero.
+Ordina per psico.
+Ordina sempre per psico.
+Organizza sempre le tue spille.
+Un campo di forza\nspeciale circonda\nquest'area.\n\n[#FF0000]\xff\xd2[#000000]\n\nè l'unico brand\nle cui spille sembrano\nfunzionare.
+Quest'area non sembra\ninfluenzata da\nalcuna moda.
+Traccia 1: \x22Clienti frugali\x22
+Traccia 2: \x22Mercato nero\x22
+Traccia 3: \x22Va di moda\x22
+[#FF0000]OGGETTO MISSIONE[#000000]
+Vuoi [#FF0000]scambiare[#000000] i tuoi oggetti per questo?
+[#FF0000]Non puoi trasportare[#000000] nient'altro!
+Se cercherai di portarti dietro\nanche solo un altro oggetto\nfinirai per collassare in un marasma di roba.
+Recupero [#FF0000]\xff\xd0[#000000]%
+In cerca di altri commercianti...
+Premi ANNULLA per uscire.
+Primo contatto con\n\xff\xd2!
+Incontro n. \xff\xd0 con\n\xff\xd2!
+Hai ricevuto \x22\xff\xd2\x22.
+Impossibile aggiungere i dati dell'amico.
+Impostazione profilo
+Hai un account Twitter?\nCollegalo tramite il pulsante a destra.
+Impostazione account Twitter
+Collega il tuo account Twitter, e le persone con le quali\nscambi Biglietti da visita vedranno i tuoi tweet nel mondo del gioco.
+Registrazione avvenuta.
+La registrazione è avvenuta con successo.
+Scambio di Biglietti da visita...
+Errore di comunicazione!
+Impossibile scambiare Biglietti da visita.
+\xff\xd2/\xff\xd2/\xff\xd2
+Impostazioni Twitter
+Attendere...
+Aggiornamento dati...
+Completato
+Tutti i tweet sono stati aggiornati.
+Errore
+Impossibile ricevere i dati.
+Trasmissione terminata.
+Impossibile ottenere dati dell'amico validi.
+Annullato
+Operazione annullata.
+Elenco di amici
+Elimina biglietto da visita
+Vuoi davvero\neliminare\xff\xd2?
+Il tuo Elenco di amici è pieno.
+Per aggiungere altri amici, dovrai prima\ncancellare alcuni Biglietti da visita.
+Ricorda che le ricerche di Twitter estraggono testo in maniera casuale da quel\nposto incredibilmente degenerato noto come Internet.\nCopriti gli occhi! Nascondilo ai bambini! O semplicemente disattiva la funzione.
+Impossibile recuperare tweet validi.
+Il Bluetooth non sembra abilitato.\nControlla le tue impostazioni e prova di nuovo.
+Set materiali da costruzione x 1
+Polpetta di riso gourmet x 1 (Alimento)
+100.000 Yen x 1 (Spilla)
+CD extra: traccia 61 (Bottino)
+CD extra: traccia 62 (Bottino)
+CD extra: traccia 63 (Bottino)
+CD extra: traccia 64 (Bottino)
+CD extra: traccia 65 (Bottino)
+CD extra: traccia 66 (Bottino)
+CD extra: traccia 67 (Bottino)
+CD extra: traccia 68 (Bottino)
+CD extra: traccia 69 (Bottino)
+Un set di materiali contenente un pezzo di hihiirokane, di materia oscura e di oricalco.
+Digerito con 1 byte. \nATT: +10, DIF: +10, COR: +10, PF max +100.
+Una spilla che può essere scambiata per 100.000 yen.\n(Assicurati che ci sia spazio nel tuo portafogli!)
+MMM: 001 / The World Ends with You\nTocca i brani nel menu Oggetti per ascoltarli.
+TWISTER -KINGDOM REMIX-\nTocca i brani nel menu Oggetti per ascoltarli.
+DTM -Crossover-\nTocca i brani nel menu Oggetti per ascoltarli.
+Twister -Crossover-\nTocca i brani nel menu Oggetti per ascoltarli.
+Twister Gang Remix\nTocca i brani nel menu Oggetti per ascoltarli.
+Twister -???-\nTocca i brani nel menu Oggetti per ascoltarli.
+Three Minutes Clapping -No Clapping-\nTocca i brani nel menu Oggetti per ascoltarli.
+Long Dream -Parallel Mix-\nTocca i brani nel menu Oggetti per ascoltarli.
+Déjà vu -Sanctuary Mix-\nTocca i brani nel menu Oggetti per ascoltarli.
+Il costo di oggetti e contenuti di gioco\nti sarà addebitato!
+I dati degli oggetti vendibili e utilizzabili verranno cancellati\nreinstallando o avviando una nuova partita.\nSeleziona l'opzione RIPRISTINA per recuperarli.
+Acquisto completato!
+Ripristino completato!
+Impossibile acquistare.
+Impossibile effettuare ulteriori acquisti.
+Possiedi già quell'oggetto.
+Impossibile acquistare con il portafogli attuale.
+Usando 2 controller Joy-Con™ puoi unirti in battaglia con un partner.
+Partner
+Puoi cambiare partner dal menu Oggetti dopo aver completato il gioco.
+STOCK
+MASTER
+Italy_OPTION_TOP
+Italy_OPTION_DEFAULT
+Italy_POINTERSENSITIVITY
+Italy_SLOW
+Italy_NORMAL
+Italy_FAST
+Italy_VIBRATION
+Italy_OFF
+Italy_ON
+Italy_BGM_ARRANGE
+Italy_ORIGINAL
+Italy_ARRANGE
+Un Nuovo Giorno \xff\xd0
+? ? ?

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MjAR9S+v86RObJ3RYkFR8ELPSwHtbB3u3p7pesLpD27VuYU/0+mNdp6JuZOf1d5tFK3a16q759wolPsD8o4gEg==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\finalremix-db\\finalremix-generators\\finalremix-generators.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\toyomitsu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.7\\microsoft.netcore.app.host.win-x64.5.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

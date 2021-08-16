@@ -1,0 +1,304 @@
+⑧ Spark Core ⑬
+⑧ Flame Core ⑲
+⑧ Splash Core ⑳
+⑧ Energy Rounds ⑲
+⑧ Force Rounds ⑳
+⑧ Patrol Rounds ⑲
+⑧ Patrol Rounds ⑳
+⑧ Burst Rounds ⑰
+⑧ Piercing Pillar ⑲
+⑧ Piercing Pillar ⑱
+⑧ Lightning Bolt ⑲
+⑧ Lightning Arrester ⑳
+⑧ Freeze ⑰
+⑧ Rock Bind ⑳
+⑧ Discharge ⑱
+⑧ Discharge ⑮
+⑧ Holy Light ⑰
+⑧ Ignition ⑮
+⑧ Frostbite ⑱
+⑧ Pyrokinesis ⑭
+⑧ Flame Blast ⑰
+Sweeper ⑰
+Black Hole ⑬
+⑦ Fire Barrier ⑰
+Aqua Barrier ⑰
+⑦ Dark Barrier ⑰
+⑦ Earthquake ⑮
+⑧ Twister ⑮
+⑦ Velocity Attack ⑭
+⑦ Velocity Crash ⑭
+Invisibility ⑭
+⑧ Time Bomb ⑳
+⑧ Explosion ⑰
+⑨ Pressure Mine ⑰
+Teleport ⑳
+⑧ Acrobatic Spike ⑳
+⑦ Shockwave ⑲
+⑦ Massive Hit ⑰
+⑦ Lance Lunge ⑳
+⑦ Spear Strike ⑲
+⑦ Stellar Flurry ⑱
+⑦ Vortex Saber ⑮
+⑦ Vortex Saber ⑬
+⑦ Vulcan Uppercut ⑲
+⑦ Grave Marker ⑲
+⑨ Psychokinesis ⑳
+⑨ Psychokinesis ⑲
+⑨ Psychokinesis ⑭
+⑧ Apport ⑳
+⑧ Apport ⑬
+⑧ Thunderbolt ⑳
+⑧ Thunderstorm ⑭
+⑧ Thundercloud ⑰
+⑧ Entanglement ⑲
+⑧ Street Jam ⑮
+Cure Drink ⑫
+Healing ⑫
+⑦ Summon Rhyme ⑳
+⑧ Nexus Ray ⑰
+⑧ Nexus Ray ⑰
+⑨ Irregular Note ⑫
+Subconscious ⑪
+Subconscious ⑪
+Subconscious ⑪
+DEBUG
+English
+English
+English
+English
+English
+English
+English
+⑧ Velocity Charge ⑲
+⑧ Bullet Sword ⑰
+⑧ Laser Blast ⑲
+English
+English
+English
+⑧ Burst Sword ⑰
+English
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

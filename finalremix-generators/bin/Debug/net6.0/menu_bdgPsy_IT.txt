@@ -1,0 +1,304 @@
+⑧ Nucleo di scintille ⑬
+⑧ Nucleo di fiamme ⑲
+⑧ Nucleo di spruzzi ⑳
+⑧ Proiettili di energia ⑲
+⑧ Proiettili di forza ⑳
+⑧ Proiettili di perlustrazione ⑲
+⑧ Proiettili di perlustrazione ⑳
+⑧ Proiettili esplosivi ⑰
+⑧ Colonna perforante ⑲
+⑧ Colonna perforante ⑱
+⑧ Saetta ⑲
+⑧ Parafulmini ⑳
+⑧ Congelamento ⑰
+⑧ Legame di roccia ⑳
+⑧ Scarica ⑱
+⑧ Scarica ⑮
+⑧ Luce sacra ⑰
+⑧ Accensione ⑮
+⑧ Morso di ghiaccio ⑱
+⑧ Pirocinesi ⑭
+⑧ Esplosione fiammeggiante ⑰
+Spazzata ⑰
+Buco nero ⑬
+⑦ Barriera di fuoco ⑰
+Barriera d'acqua ⑰
+⑦ Barriera oscura ⑭
+⑦ Terremoto ⑮
+⑧ Tornado ⑯
+⑦ Attacco in velocità ⑭
+⑦ Schianto in velocità ⑭
+Invisibilità ⑭
+⑧ Bomba a tempo ⑳
+⑧ Esplosione ⑰
+⑨ Mina a pressione ⑰
+Teletrasporto ⑳
+⑧ Punta acrobatica ⑳
+⑦ Onda d'urto ⑲
+⑦ Colpo intenso ⑰
+⑦ Affondo trafiggente ⑳
+⑦ Colpo con lancia ⑲
+⑦ Turbinio stellare ⑱
+⑦ Sciabolata vorticante ⑯
+⑦ Sciabolata vorticante ⑬
+⑦ Montante vulcanico ⑲
+⑦ Lapide ⑲
+⑨ Psicocinesi ⑳
+⑨ Psicocinesi ⑲
+⑨ Psicocinesi ⑭
+⑧ Apporto ⑳
+⑧ Apporto ⑬
+⑧ Fulmine ⑳
+⑧ Tempesta ⑭
+⑧ Nube temporalesca ⑰
+⑧ Groviglio ⑲
+⑧ Ingorgo stradale ⑯
+Bevanda curativa ⑫
+Guarigione ⑫
+⑦ Evoca Rhyme ⑳
+⑧ Raggio del fulcro ⑰
+⑧ Raggio del fulcro ⑰
+⑨ Nota irregolare ⑫
+Subconscio ⑪
+Subconscio ⑪
+Subconscio ⑪
+DEBUG
+Italy
+Italy
+Italy
+Italy
+Italy
+Italy
+Italy
+⑧Carica in velocità⑲
+⑧Spada proiettile⑰
+⑧Esplosione laser⑲
+Italy
+Italy
+Italy
+⑧Spada esplosiva⑰
+Italy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

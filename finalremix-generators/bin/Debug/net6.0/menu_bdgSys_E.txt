@@ -1,0 +1,353 @@
+Neku
+Shiki
+Joshua
+Beat
+Attack
+Defense
+HP
+Bravery
+Drop rate
+Sync rate
+Bravery Req.
+Friends
+Noise
+Items
+Pins
+Chapters
+Tin Pin
+Mingle
+Deeds
+[#FF0000]Angel[#000000]
+[#FF0000]Reaper[#000000]
+[#FF0000]A[#000000]
+[#FF0000]B[#000000]
+[#FF0000]C[#000000]
+------
+------
+------
+------
+/
+\xff\xd2 [#0808FF]+\xff\xd1
+\xff\xd2 [#FF0000]-\xff\xd1
+\xff\xd0/\xff\xd0
+To activate: \xff\xd2
+Tap the pin
+Slash Neku
+Press Neku
+Drag Neku
+Shake your device
+Slash an enemy
+Tap an enemy
+Rapidly tap an enemy
+Scratch an enemy
+Press an enemy
+Press an enemy
+Slash an obstacle
+Tap an obstacle
+Press an obstacle
+Drag an obstacle
+Slash an enemy/obstacle
+Tap an enemy/obstacle
+Drag an enemy/obstacle
+Slash empty space
+Tap empty space
+Rapidly tap empty space
+Scratch empty space
+Press empty space
+Drag empty space
+------
+Lasts [#FF0000]\xff\xd0.\xff\xd0[#000000]s
+Lasts [#FF0000]\xff\xd0[#000000] uses
+Lasts [#FF0000]\xff\xd0[#000000] use
+Instant boot
+Ready to use in [#FF0000]\xff\xd0.\xff\xd0[#000000]s
+------
+Reboots in [#FF0000]\xff\xd0.\xff\xd0[#000000]s
+Threads: 
+Headwear
+Top
+Bottom
+Top & Bottom
+Footwear
+Accessory
+Food Item
+Swag
+Date Saved
+Time Saved
+Chapter
+Area
+\xff\xd0/\xff\xd0\xff\xd0/\xff\xd0\xff\xd0
+\xff\xd2 \xff\xd0, \xff\xd0
+\xff\xd0\xff\xd0:\xff\xd0\xff\xd0
+\xff\xd0:\xff\xd0\xff\xd0 a.m.
+\xff\xd0:\xff\xd0\xff\xd0 p.m.
+\xff\xd2, Day \xff\xd0
+Another Day
+[#FF0000]Play Time:  \xff\xd0h \xff\xd0m
+Jan.
+Feb.
+Mar.
+Apr.
+May
+Jun.
+Jul.
+Aug.
+Sep.
+Oct.
+Nov.
+Dec.
+Save your progress?\nYou can pick up from this save point later.
+[#0808FF]Saving... Don't turn power OFF or remove the\nGame Card!
+Save complete.
+Checking the data\nPlease do not turn off the power 
+Data confirmation complete.\n\nThis game uses an auto-save feature.\nA save icon will appear whenever\nyour progress is saved.
+Load your saved data.
+Loading...
+Load complete.
+Touch the Save button . . . SAVE\nPress the B Button . . . . . . LOAD
+Initializing backup memory...
+Backup memory initialized.
+Unable to read save data.
+Unable to write save data.
+ESP'ers
+Civvies
+Aliens
+ESP'er Rank
+ESP'er Points
+Noise Report
+Pin Mastery
+Item Collection
+Final Time Attack
+\xff\xd0 pts.
+\xff\xd0 pt.
+\xff\xd0 types
+\xff\xd0 type
+\xff\xd0.\xff\xd0 %
+\xff\xd0\xff\xd0'\xff\xd0\xff\xd0\x22\xff\xd0\xff\xd0
+\xff\xd0'\xff\xd0\xff\xd0\x22\xff\xd0\xff\xd0
+\xff\xd0
+--
+★
+A
+B
+C
+D
+E
+God
+Demon
+Angel
+Fallen Angel
+Composer
+Conductor
+Reaper
+Master Player
+Supernatural
+Spoon-bender
+Only Human
+Review your information.
+The contents shown above will be sent.\nAfter mingling, your game will be saved.
+End communications when the\npower light is red
+Communications end when this\nmingle count reaches zero
+End communications and save
+The power light is red!\nCommunications ended.
+You can mingle with \xff\xd0 more people.
+You can mingle with \xff\xd0 more person.
+Now mingling!\nFeel free to close your DS if you want.\nThe party will go on without you.
+Ending communications.
+You've met your mingle quota!\nCommunications ended.\nTouch [#FF0000]FINISH![#000000] to save.
+[#FF0000]Saving... Don't turn power OFF or remove\nthe Game Card!
+You ran into [#FF0000]\xff\xd2[#000000]!
+You raked in [#FF0000]$\xff\xd0[#000000]!
+You ran into [#FF0000]\xff\xd2[#000000] again, but
+each person only counts once per hour.
+You ran into [#FF0000]\xff\xd2[#000000]...
+[#FF0000]Set up your Mingle Mode shop[#000000]
+a cuckoo
+a monkey's uncle
+a Plutonian
+a Jovian
+an unknown lifeform
+a string of bad luck
+your big chance
+Mr. or Ms. Right
+the winds of change
+just what you needed
+the one who got away
+a nagging feeling
+a childhood memory
+the hero within you
+some bodacious vibes
+that lovin' feelin'
+your shining prince
+a secret admirer
+your future lover
+hope for the future
+bliss on a stick
+a vengeful spirit
+the impossible
+hot coffee
+some nasty juju
+the guy ahead of you
+the doorframe of life
+a psycho hose beast
+yourself in 20 years
+another you
+Ability Locked
+You haven't acquired this item's ability yet. To get it, you'll need to [#FF0000]make friends with the right store clerk[#000000] for the [#FF0000]inside info[#000000].
+\xff\xd2 Ability
+Ability
+This is an [#FF0000]ability[#000000] which works just by wearing\nthe pin. Level it up to increase its value.
+This is a [#FF0000]positive[#000000] psych.\nLevel it up to increase its Attack.
+This is a [#FF0000]negative[#000000] psych.\nLevel it up to increase its Attack.
+Level this up to increase its power.
+Ability Pin
+Positive
+Negative
+Neutral
+Consume this to [#FF0000]boost your sync rate by roughly \xff\xd0%[#000000]. Once you digest it by fighting battles, your [#FF0000]Attack will increase by \xff\xd0[#000000].
+Consume this to [#FF0000]boost your sync rate by roughly \xff\xd0%[#000000]. Once you digest it by fighting battles, your [#FF0000]Defense will increase by \xff\xd0[#000000].
+Consume this to [#FF0000]boost your sync rate by roughly \xff\xd0%[#000000]. Once you digest it by fighting battles, your [#FF0000]max HP will increase by \xff\xd0[#000000].
+Consume this to [#FF0000]boost your sync rate by roughly \xff\xd0%[#000000]. Once you digest it by fighting battles, your [#FF0000]Bravery will increase by \xff\xd0[#000000].
+Consume this to [#FF0000]boost your sync rate by roughly \xff\xd0%[#000000]. Once you digest it by fighting battles, your [#FF0000]drop rate will increase by \xff\xd0[#000000].
+Consume this to [#FF0000]boost your sync rate by \xff\xd0%[#000000]. Once you digest it by fighting battles, you will [#FF0000]attain a sync rate of \xff\xd0%[#000000].
+Consume this to [#FF0000]double your sync rate[#000000]. Once you digest it by fighting battles, your [#FF0000]Attack, Defense, and Bravery will increase by 10[#000000], and your [#FF0000]max HP will increase by 100[#000000].
+Goes down in \xff\xd0 bytes.
+Goes down in \xff\xd0 byte.
+
+You [#FF0000]can't consume[#000000] this item!
+At least, not if you want to avoid\nthe stomachache of a lifetime.
+It's [#FF0000]too soon[#000000] to consume this item!
+You're stuffed. Bursting at the seams.\nFight some battles and clear some room!
+It's [#FF0000]too late[#000000] to eat this item!
+You'll have to wait till [#FF0000]tomorrow[#000000] in\nreal time before you can get this down.
+You're not [#FF0000]brave[#000000] enough to wear this!
+You need a higher [#FF0000]BRV[#000000] rating if\nyou're planning to put this on.
+You [#FF0000]can't layer up[#000000] like that!
+You can't wear [#FF0000]two items in the same place[#000000].\nWhy? Because you can't. Deal.
+You [#FF0000]can't wear[#000000] this item!
+But you'd get some pretty amazing\nlooks if you tried.
+You can't wear any more of\nthese pins.
+[#FF0000]You can't cash in this pin![#000000]\nIt's worth more than all the yen\nin the world.
+Your stockpile is full!\nYou can only hold [#FF0000]200 pins[#000000] in your pile.\nDiscard [#FF0000]\xff\xd0 more pins[#000000] from your stockpile\nfolder or your decks.
+Your stockpile is full!\nYou can only hold [#FF0000]200 pins[#000000] in your pile.\nDiscard [#FF0000]\xff\xd0 more pin[#000000] from your stockpile\nfolder or your decks.
+You're over your [#FF0000]class limit[#000000]!\nYou can only wear [#FF0000]one Angel class[#000000]\npin at a time.
+You're over your [#FF0000]class limit[#000000]!\nYou can only wear [#FF0000]one Reaper class[#000000]\npin at a time.
+You're over your [#FF0000]class limit[#000000]!\nYou can't wear more than [#FF0000]one A class[#000000]\npin with the [#FF0000]same psych (PSY)[#000000].
+You're over your [#FF0000]class limit[#000000]!\nYou can't wear more than [#FF0000]two B class[#000000]\npins with the [#FF0000]same psych (PSY)[#000000].
+You're over your [#FF0000]class limit[#000000]!\nYou can't wear more than [#FF0000]three C class[#000000]\npins with the [#FF0000]same psych (PSY)[#000000].
+Warning:\nYour [#FF0000]wallet[#000000] is full, so discarding more pins\nwon't earn you any more [#FF0000]money[#000000].
+[#0808FF]\xff\xd2[#000000]
+× \xff\xd0
+. . . Owned: \xff\xd0
+. . . [#FF0000]Owned: \xff\xd0
+[#FF0000]$\xff\xd0
+$ \xff\xd0
+$ \xff\xd0,\xff\xd0\xff\xd0\xff\xd0
+$ \xff\xd0,\xff\xd0\xff\xd0\xff\xd0,\xff\xd0\xff\xd0\xff\xd0
+[#FF0000]$ \xff\xd0
+[#FF0000]$ \xff\xd0,\xff\xd0\xff\xd0\xff\xd0
+[#FF0000]$ \xff\xd0,\xff\xd0\xff\xd0\xff\xd0,\xff\xd0\xff\xd0\xff\xd0
+Buy this merchandise?
+Cash in this pin?
+[#FF0000]Organize Your Pins[#000000]
+Arrange by number.
+Always arrange by number.
+Arrange by psych.
+Always arrange by psych.
+Always organize your pins.
+A special force field\nsurrounds this area.\n\n[#FF0000]\xff\xd2[#000000]\n\nis the only brand whose\npins seem to work.
+This area doesn't\nseem to be affected\nby trends.
+Track 1: \x22Economical Shoppers\x22
+Track 2: \x22Black Market\x22
+Track 3: \x22It Is Fashionable\x22
+[#FF0000]QUEST ITEM[#000000]
+[#FF0000]Trade in[#000000] your items for this?
+[#FF0000]You can't carry any more![#000000]
+One more item to lug around and you\nmight just collapse in a heap of swag.
+Recovery [#FF0000]\xff\xd0[#000000]%
+Searching for other traders...
+Press CANCEL to exit.
+First contact with\n\xff\xd2!
+Meeting #\xff\xd0 with\n\xff\xd2!
+Obtained \x22\xff\xd2.\x22
+Unable to add friend data.
+Profile Setup
+Got a Twitter account?\nSet it up using the button to the right.
+Twitter Account Setup
+Set up your Twitter account, and people you trade\nFriend Cards with will see your tweets in the game world.
+Sign-in successful.
+You have signed in.
+Trading Friend Cards...
+Communications error!
+Unable to trade Friend Cards.
+\xff\xd2/\xff\xd2/\xff\xd2
+Twitter Settings
+Please Wait...
+Updating data...
+Success
+All tweets have been updated.
+Error
+Unable to receive data.
+Transmission ended.
+Unable to obtain valid friend data.
+Canceled
+Operation canceled.
+Friend Roster
+Delete Friend Card
+Are you sure you want to\ndelete \xff\xd2?
+Your Friend Roster is full.
+To add more friends, you'll need\nto delete some Friend Cards first.
+Remember that Twitter searches randomly pull text from that\nfantastically depraved place known as the Internet. Shield your\neyes! Hide your children! (Or just keep the feature turned off.)
+Unable to retrieve any valid tweets.
+Bluetooth does not seem to be enabled.\nPlease check your settings and try again.
+Crafting Material Set x 1
+Gourmet Rice Ball x 1 (Food)
+100,000 Yen x 1 (Pin)
+Extra CD: Track 61 (Swag)
+Extra CD: Track 62 (Swag)
+Extra CD: Track 63 (Swag)
+Extra CD: Track 64 (Swag)
+Extra CD: Track 65 (Swag)
+Extra CD: Track 66 (Swag)
+Extra CD: Track 67 (Swag)
+Extra CD: Track 68 (Swag)
+Extra CD: Track 69 (Swag)
+A set of materials containing one piece each of\nscarletite, dark matter, and orichalcum.
+Consumes 1 byte. \nATK: +10, DEF: +10, BRV: +10, Max HP +100.
+A pin that can be traded for 100,000 yen.\n(Make sure there's room in your wallet!)
+MMM: 001 / The World Ends with You\nTap your tunes in the Items Menu to listen.
+TWISTER -KINGDOM REMIX-\nTap your tunes in the Items Menu to listen.
+DTM -Crossover-\nTap your tunes in the Items Menu to listen.
+Twister -Crossover-\nTap your tunes in the Items Menu to listen.
+Twister Gang Remix\nTap your tunes in the Items Menu to listen.
+Twister -???-\nTap your tunes in the Items Menu to listen.
+Three Minutes Clapping -No Clapping-\nTap your tunes in the Items Menu to listen.
+Long Dream -Parallel Mix-\nTap your tunes in the Items Menu to listen.
+Déjà vu -Sanctuary Mix-\nTap your tunes in the Items Menu to listen.
+You must charge your account to\npurchase game items and content.
+Sellable and usable item data will be erased by\nreinstalling or starting a new game.\nSelect the RESTORE option to recover such data.
+Purchase complete!
+Restoration complete!
+Unable to purchase.
+Unable to make additional purchases.
+You already possess that item.
+Unable to purchase with current wallet.
+Give one Joy-Con™ to a friend to let them control Neku's partner in combat!
+Partner
+Switch partners from the Items Menu after completing the game.
+IN STOCKPILE
+IN MASTERED
+English_OPTION_TOP
+English_OPTION_DEFAULT
+English_POINTERSENSITIVITY
+English_SLOW
+English_NORMAL
+English_FAST
+English_VIBRATION
+English_OFF
+English_ON
+English_BGM_ARRANGE
+English_ORIGINAL
+English_ARRANGE
+A New Day \xff\xd0
+???

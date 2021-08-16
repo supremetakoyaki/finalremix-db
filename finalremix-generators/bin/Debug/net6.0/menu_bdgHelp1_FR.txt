@@ -1,0 +1,323 @@
+[#FF0000]Balayez vers le haut sur un espace vide[#000000] pour créer une stalactite. Inflige des dégâts au contact.
+[#FF0000]Balayez vers le haut sur un espace vide[#000000] pour créer trois stalactites. Inflige des dégâts au contact.
+[#FF0000]Touchez de manière répétitive un espace vide[#000000] pour créer un stalactite. Inflige des dégâts au contact.
+[#FF0000]Touchez de manière répétitive un espace vide[#000000] pour créer trois stalactites. Inflige des dégâts au contact.
+[#FF0000]Grattez un espace vide[#000000] pour causer une secousse. Inflige des dégâts et [#FF0000]immobilise[#000000] parfois des ennemis.
+[#FF0000]Faites glisser des obstacles[#000000] comme des voitures et des panneaux. Inflige des dégâts au contact.
+[#FF0000]Faites glisser des obstacles[#000000] comme des voitures et des panneaux. Inflige des dégâts au contact.
+[#FF0000]Faites glisser des ennemis ou des obstacles[#000000] comme des voitures et des panneaux. Inflige des dégâts au contact. (Certains ennemis ne peuvent pas être déplacés).
+Augmente considérablement la durée des effets négatifs de l'[#FF0000]Immobilisation[#000000] sur vos ennemis.
+[#FF0000]Restaure automatiquement des PV[#000000] lorsque la jauge est à moitié vide.
+Augmente l'[#FF0000]Attaque[#000000] de tous les badges [#00CC00]D+B[#000000] que porte Neku.
+[#FF0000]Balayez Neku[#000000] pour tirer une [#FF0000]balle pénétrante[#000000] dans cette direction. Inflige des dégâts au contact.
+[#FF0000]Balayez Neku[#000000] pour tirer une [#FF0000]balle triple[#000000] dans cette direction. Inflige des dégâts au contact.
+[#FF0000]Balayez Neku[#000000] pour tirer une [#FF0000]salve de balles triples[#000000] dans cette direction. Inflige des dégâts au contact.
+[#FF0000]Balayez Neku[#000000] pour tirer une [#FF0000]balle à fragmentation[#000000] dans cette direction. Inflige des dégâts au contact.
+[#FF0000]Balayez Neku[#000000] pour tirer une [#FF0000]balle pénétrante triple[#000000] dans cette direction. Inflige des dégâts au contact.
+[#FF0000]Balayez Neku[#000000] pour tirer une [#FF0000]salve de balles pénétrantes triples[#000000] dans cette direction. Inflige des dégâts au contact.
+[#FF0000]Balayez Neku[#000000] pour [#FF0000]mitrailler des balles pénétrantes[#000000] dans cette direction. Inflige des dégâts au contact.
+[#FF0000]Balayez Neku[#000000] pour tirer une [#FF0000]balle[#000000] lente dans cette direction. [#FF0000]Balayez la balle[#000000] en vol pour [#FF0000]modifier sa trajectoire[#000000].
+[#FF0000]Balayez Neku[#000000] pour tirer une [#FF0000]balle[#000000] dans cette direction et parfois infliger un [#FF0000]Drain de PV[#000000] au contact.
+[#FF0000]Balayez Neku[#000000] pour tirer un [#FF0000]projectile à sous-munitions[#000000] dans cette direction. Inflige des dégâts au contact.
+[#FF0000]Touchez un espace vide[#000000] pour tirer une [#FF0000]balle[#000000] dans cette direction. Inflige des dégâts au contact. Portée limitée.
+[#FF0000]Touchez un espace vide[#000000] pour tirer une [#FF0000]balle[#000000] dans cette direction. Inflige des dégâts au contact.
+[#FF0000]Touchez un espace vide[#000000] pour tirer une [#FF0000]balle[#000000] dans cette direction. Inflige des dégâts au contact.
+[#FF0000]Touchez un espace vide[#000000] pour tirer une [#FF0000]balle pénétrante[#000000] dans cette direction. Inflige des dégâts au contact.
+[#FF0000]Touchez un espace vide[#000000] pour tirer une [#FF0000]balle pénétrante[#000000] dans cette direction. Inflige des dégâts au contact.
+[#FF0000]Touchez un espace vide[#000000] pour tirer une [#FF0000]balle à fragmentation[#000000] dans cette direction. Inflige des dégâts au contact.
+[#FF0000]Touchez un espace vide[#000000] pour [#FF0000]mitrailler des balles pénétrantes[#000000] dans cette direction. Inflige des dégâts au contact.
+[#FF0000]Touchez un espace vide[#000000] pour tirer un [#FF0000]boomerang pénétrant[#000000] dans cette direction. Inflige des dégâts au contact.
+[#FF0000]Touchez un espace vide[#000000] pour tirer un [#FF0000]boomerang pénétrant[#000000] dans cette direction. Inflige des dégâts au contact.
+[#FF0000]Balayez un espace vide[#000000] pour dérouler une chaîne sur cette ligne et empêcher l'ennemi d'avancer. Inflige des dégâts et parfois une [#FF0000]Rupture de défense[#000000] au contact.
+[#FF0000]Balayez un espace vide[#000000] pour dérouler une chaîne sur cette ligne et empêcher l'ennemi d'avancer. Inflige des dégâts et parfois une [#FF0000]Rupture de défense[#000000] au contact.
+[#FF0000]Balayez un espace vide[#000000] pour dérouler une chaîne sur cette ligne et empêcher l'ennemi d'avancer. Inflige des dégâts et parfois une [#FF0000]Rupture de défense[#000000] au contact.
+Augmente l'[#FF0000]Attaque[#000000] de tous les badges [#00CC00]Natural Puppy[#000000] que porte Neku.
+[#FF0000]Grattez un espace vide[#000000] pour créer un tourbillon. Inflige des dégâts à tous les ennemis et les [#FF0000]immobilise[#000000] systématiquement. (Certains ennemis peuvent être immunisés).
+[#FF0000]Faites glisser Neku[#000000] pour le faire sprinter, puis disparaître, ce qui le rendra [#FF0000]invulnérable[#000000] aux attaques ennemies.
+[#FF0000]Touchez un espace vide[#000000] et Neku [#FF0000]se téléportera[#000000] à cet endroit.
+[#FF0000]Touchez un espace vide[#000000] et Neku [#FF0000]se téléportera[#000000] à cet endroit.
+[#FF0000]Appuyez sur un obstacle[#000000] pour le transformer en bombe qui [#FF0000]explosera au contact de l'ennemi[#000000]. Inflige des dégâts.
+[#FF0000]Touchez un espace vide[#000000] pour y abattre un [#FF0000]rocher[#000000]. Inflige des dégâts au contact. Touchez de manière répétitive pour faire pleuvoir plus de pierres.
+[#FF0000]Touchez un espace vide[#000000] pour y abattre [#FF0000]deux rochers[#000000]. Inflige des dégâts au contact. Touchez de manière répétitive pour faire pleuvoir plus de pierres.
+[#FF0000]Touchez un espace vide[#000000] pour y abattre [#FF0000]cinq rochers[#000000]. Inflige des dégâts au contact. Touchez de manière répétitive pour faire pleuvoir plus de pierres.
+Augmente la durée des effets négatifs du [#FF0000]Drain de PV[#000000] sur vos ennemis.
+Augmente la durée des effets négatifs de la [#FF0000]Rupture d'attaque[#000000] sur vos ennemis.
+Augmente la durée des effets négatifs de la [#FF0000]Rupture de défense[#000000] sur vos ennemis.
+Augmente la durée des effets négatifs de l'[#FF0000]Immobilisation[#000000] sur vos ennemis.
+Inflige parfois un [#FF0000]Drain de PV[#000000] aux ennemis au début du combat.
+Inflige parfois une [#FF0000]Rupture d'attaque[#000000] aux ennemis au début du combat.
+Inflige parfois une [#FF0000]Rupture de défense[#000000] aux ennemis au début du combat.
+[#FF0000]Immobilise[#000000] parfois les ennemis au début du combat.
+Inflige systématiquement une [#FF0000]Rupture d'attaque[#000000] aux ennemis au début du combat. (Certains ennemis peuvent être immunisés).
+[#FF0000]Augmente la quantité de PV restaurés[#000000] par les badges de récupération de PV.
+[#FF0000]Utilise automatiquement les badges de récupération de PV[#000000] que porte Neku pour le soigner lorsque la jauge de PV est à moitié vide.
+[#FF0000]Restaure automatiquement des PV[#000000] lorsque la jauge est basse.
+[#FF0000]Réduit[#000000] la vitesse à laquelle les [#FF0000]jauges de badge se vident[#000000].
+[#FF0000]Augmente la vitesse de réactivation[#000000] des badges.
+[#FF0000]Rajoute des utilisations[#000000] aux badges dont le nombre d'utilisations est limité (ceux avec un nombre à côté d'eux en combat).
+Inflige généralement un [#FF0000]Drain de PV[#000000] aux ennemis au début du combat.
+Augmente l'[#FF0000]Attaque[#000000] de tous les badges [#00CC00]Pavo Real[#000000] que porte Neku.
+[#FF0000]Tracez un cercle dans un espace vide[#000000] pour créer une charge électrique qui [#FF0000]tournera autour de Neku[#000000]. Inflige des dégâts au contact.
+[#FF0000]Tracez un cercle dans un espace vide[#000000] pour créer une charge électrique qui [#FF0000]se déplacera sur l'écran[#000000]. Inflige des dégâts au contact.
+[#FF0000]Balayez Neku[#000000] pour lancer un orbe de feu dans cette direction. Inflige des dégâts au contact. Les orbes [#FF0000]rebondissent sur les murs et les ennemis[#000000].
+[#FF0000]Balayez Neku[#000000] pour lancer un gros orbe de feu dans cette direction. Inflige des dégâts au contact. Les orbes [#FF0000]rebondissent sur les murs et les ennemis[#000000].
+[#FF0000]Balayez Neku[#000000] pour lancer un petit orbe de feu dans cette direction. Inflige des dégâts au contact. Les orbes [#FF0000]rebondissent sur les murs et les ennemis[#000000].
+[#FF0000]Touchez un espace vide[#000000] pour créer un orbe d'eau stationnaire. Les orbes infligent des dégâts au contact, puis [#FF0000]rebondissent[#000000].
+[#FF0000]Touchez un espace vide[#000000] pour créer un gros orbe d'eau stationnaire. Les orbes infligent des dégâts au contact, puis [#FF0000]rebondissent sur une courte distance[#000000].
+[#FF0000]Touchez un espace vide[#000000] pour créer un petit orbe d'eau stationnaire. Les orbes infligent des dégâts au contact, puis [#FF0000]rebondissent sur une longue distance[#000000].
+[#FF0000]Maintenez un ennemi[#000000] pour l'illuminer. Inflige des dégâts continus et parfois une [#FF0000]Rupture d'attaque[#000000].
+[#FF0000]Balayez un espace vide[#000000] pour créer un chemin de flammes. Inflige des dégâts au contact.
+[#FF0000]Appuyez sur un espace vide[#000000] pour [#FF0000]lancer des étincelles dans un grand rayon[#000000]. Inflige des dégâts au contact.
+[#FF0000]Balayez un ennemi[#000000] à n'importe quelle distance et Neku ira lui asséner une frappe horizontale. [#FF0000]Continuez à le balayer[#000000] pour infliger un coup final qui [#FF0000]repoussera l'ennemi[#000000].
+[#FF0000]Balayez des obstacles[#000000] comme des voitures et des panneaux pour les propulser dans cette direction. Inflige des dégâts au contact.
+[#FF0000]Touchez un espace vide[#000000] pour y abattre un [#FF0000]rocher[#000000]. Inflige des dégâts au contact. Touchez de manière répétitive pour faire pleuvoir plus de pierres.
+[#FF0000]Touchez un ennemi[#000000] pour le foudroyer. [#FF0000]Touchez d'autres ennemis[#000000] pendant que l'éclair s'abat pour faire un [#FF0000]combo[#000000].
+[#FF0000]Touchez un espace vide[#000000] et Neku lancera [#FF0000]deux éclairs[#000000] dans cette direction. Inflige des dégâts au contact.
+[#FF0000]Faites glisser Neku[#000000] pour le faire sprinter, puis disparaître, ce qui le rendra [#FF0000]invulnérable[#000000] aux attaques ennemies.
+[#FF0000]Grattez un espace vide[#000000] pour créer une onde de choc. Inflige des dégâts continus à tous les ennemis, ainsi qu'une [#FF0000]Rupture de défense[#000000]. (Certains ennemis peuvent être immunisés).
+[#FF0000]Rajoute des utilisations[#000000] aux badges dont le nombre d'utilisations est limité (ceux avec un nombre à côté d'eux en combat).
+[#FF0000]Immobilise[#000000] systématiquement les ennemis au début du combat. (Certains ennemis peuvent être immunisés).
+Augmente l'[#FF0000]Attaque[#000000] de tous les badges [#00CC00]Mus Rattus[#000000] que porte Neku.
+[#FF0000]Balayez un ennemi[#000000] à n'importe quelle distance et Neku ira lui asséner une frappe horizontale. [#FF0000]Continuez à le balayer[#000000] pour infliger un coup final qui [#FF0000]repoussera l'ennemi[#000000].
+[#FF0000]Balayez un ennemi[#000000] à n'importe quelle distance et Neku ira lui asséner une frappe horizontale. [#FF0000]Continuez à le balayer[#000000] pour infliger un coup final qui [#FF0000]repoussera l'ennemi[#000000].
+[#FF0000]Balayez un ennemi[#000000] à n'importe quelle distance et Neku ira lui asséner une frappe horizontale. [#FF0000]Continuez à le balayer[#000000] pour infliger un coup final qui [#FF0000]repoussera l'ennemi[#000000].
+[#FF0000]Balayez un ennemi[#000000] à n'importe quelle distance et Neku ira lui asséner une frappe horizontale. [#FF0000]Continuez à le balayer[#000000] pour infliger un coup final qui [#FF0000]repoussera l'ennemi[#000000].
+[#FF0000]Balayez un ennemi[#000000] à n'importe quelle distance et Neku ira lui asséner une frappe horizontale. [#FF0000]Continuez à le balayer[#000000] pour infliger un coup final qui [#FF0000]repoussera l'ennemi[#000000].
+[#FF0000]Balayez un ennemi[#000000] à n'importe quelle distance et Neku ira lui asséner une frappe horizontale. [#FF0000]Continuez à le balayer[#000000] pour infliger un coup final qui [#FF0000]repoussera l'ennemi[#000000].
+[#FF0000]Touchez un ennemi[#000000] à n'importe quelle distance et Neku ira lui asséner une charge rapide. [#FF0000]Repousse les ennemis[#000000].
+[#FF0000]Touchez un ennemi[#000000] à n'importe quelle distance et Neku ira lui asséner une charge rapide. [#FF0000]Repousse les ennemis[#000000].
+[#FF0000]Touchez un ennemi[#000000] à n'importe quelle distance et Neku ira lui asséner une charge rapide. [#FF0000]Repousse les ennemis[#000000].
+[#FF0000]Touchez un ennemi[#000000] à n'importe quelle distance et Neku ira lui asséner une charge rapide. [#FF0000]Repousse les ennemis[#000000].
+[#FF0000]Touchez de manière répétitive un ennemi[#000000] à n'importe quelle distance et Neku ira lui asséner un [#FF0000]déluge de coups[#000000].
+[#FF0000]Touchez de manière répétitive un ennemi[#000000] à n'importe quelle distance et Neku ira lui asséner un [#FF0000]déluge de coups[#000000].
+[#FF0000]Balayez un ennemi vers le haut[#000000] à n'importe quelle distance et Neku ira l'attaquer avec un [#FF0000]arc ascendant[#000000].
+[#FF0000]Balayez un ennemi vers le haut[#000000] à n'importe quelle distance et Neku ira l'attaquer avec un [#FF0000]arc ascendant[#000000].
+[#FF0000]Balayez un ennemi vers le haut[#000000] à n'importe quelle distance et Neku ira l'attaquer avec un [#FF0000]arc ascendant[#000000].
+[#FF0000]Balayez un ennemi vers le bas[#000000] et Neku se téléportera au-dessus de lui avant de lui asséner un [#FF0000]coup de couteau vers le bas[#000000].
+[#FF0000]Balayez Neku[#000000] et il se lancera dans une [#FF0000]charge propulsée[#000000] dans cette direction, renversant les ennemis sur son passage. Inflige des dégâts au contact.
+[#FF0000]Tracez un cercle dans un espace vide[#000000] et Neku attaquera avec une [#FF0000]entaille tournante[#000000]. Inflige des dégâts aux ennemis environnants.
+[#FF0000]Balyez un espace vide[#000000] pour créer un chemin de hautes flammes. Inflige des dégâts au contact.
+[#FF0000]Grattez un espace vide[#000000] pour créer une onde de choc. Inflige des dégâts continus à tous les ennemis et parfois un [#FF0000]Drain de PV[#000000].
+[#FF0000]Touchez le badge[#000000] pour [#FF0000]restaurer des PV[#000000].
+[#FF0000]Touchez le badge[#000000] pour [#FF0000]restaurer une petite quantité de PV[#000000] et interrompre l'[#FF0000]Immobilisation[#000000].
+Augmente l'[#FF0000]Attaque[#000000] de tous les badges [#00CC00]Jupiter of the Monkey[#000000] que porte Neku.
+[#FF0000]Touchez un ennemi[#000000] pour l'immobiliser dans la pierre. (Certains ennemis ne seront peut-être pas affectés).
+[#FF0000]Appuyez sur un ennemi[#000000] pour l'immobiliser dans la glace. (Certains ennemis ne seront peut-être pas affectés).
+[#FF0000]Appuyez sur un ennemi[#000000] pour l'immobiliser dans la glace. (Certains ennemis ne seront peut-être pas affectés).
+[#FF0000]Maintenez un ennemi[#000000] pour l'illuminer. Inflige des dégâts continus et parfois une [#FF0000]Rupture d'attaque[#000000].
+[#FF0000]Maintenez un ennemi[#000000] pour l'illuminer. Inflige des dégâts continus et parfois une [#FF0000]Rupture d'attaque[#000000].
+[#FF0000]Grattez longuement un ennemi[#000000] pour le brûler. Inflige des dégâts continus et parfois un [#FF0000]Drain de PV[#000000].
+[#FF0000]Grattez longuement un ennemi[#000000] pour le brûler. Inflige des dégâts continus et parfois un [#FF0000]Drain de PV[#000000].
+[#FF0000]Touchez de manière répétitive un ennemi[#000000] pour le congeler. Inflige des dégâts continus et parfois une [#FF0000]Immobilisation[#000000].
+[#FF0000]Touchez de manière répétitive un ennemi[#000000] pour le congeler. Inflige des dégâts continus et parfois une [#FF0000]Immobilisation[#000000].
+Partez d'un espace vide et [#FF0000]faites glisser sur un ou plusieurs ennemis[#000000] pour les cibler, puis [#FF0000]relâchez[#000000] pour frapper les cibles avec des éclairs. Inflige des dégâts.
+Partez d'un espace vide et [#FF0000]faites glisser sur un ou plusieurs ennemis[#000000] pour les cibler, puis [#FF0000]relâchez[#000000] pour frapper les cibles avec des éclairs. Inflige des dégâts.
+Partez d'un espace vite et [#FF0000]faites glisser sur un ou plusieurs ennemis[#000000] pour les cibler, puis [#FF0000]relâchez[#000000] pour frapper les cibles avec des éclairs. Inflige des dégâts.
+Augmente considérablement la durée des effets négatifs du [#FF0000]Drain de PV[#000000] sur vos ennemis.
+Augmente l'[#FF0000]Attaque[#000000] de tous les badges [#00CC00]Hip Snake[#000000] que porte Neku.
+[#FF0000]Appuyez sur un espace vide[#000000] pour créer un trou noir qui [#FF0000]attirera les ennemis vers lui[#000000]. (Certains ennemis ne seront peut-être pas affectés).
+[#FF0000]Appuyez sur un espace vide[#000000] pour créer un trou noir qui [#FF0000]attirera les ennemis vers lui[#000000]. (Certains ennemis ne seront peut-être pas affectés).
+[#FF0000]Appuyez sur un espace vide[#000000] pour créer un trou noir qui [#FF0000]attirera les ennemis vers lui[#000000]. (Certains ennemis ne seront peut-être pas affectés).
+[#FF0000]Tracez un cercle dans un espace vide[#000000] pour créer un trou noir qui [#FF0000]aspirera les ennemis[#000000]. Ne génère aucun point d'XP. (Certains ennemis ne seront peut-être pas affectés).
+[#FF0000]Tracez un cercle dans un espace vide[#000000] pour créer un trou noir qui [#FF0000]aspirera les ennemis[#000000]. Ne génère aucun point d'XP. (Certains ennemis ne seront peut-être pas affectés).
+[#FF0000]Tracez un cercle dans un espace vide[#000000] pour créer un trou noir qui [#FF0000]aspirera les ennemis[#000000]. Ne génère aucun point d'XP. (Certains ennemis ne seront peut-être pas affectés).
+[#FF0000]Appuyez sur Neku[#000000] et restez immobile pour créer une barrière de flammes qui [#FF0000]repoussera les attaques ennemies[#000000] et [#FF0000]blessera les ennemis[#000000] au contact.
+[#FF0000]Appuyez sur Neku[#000000] et restez immobile pour créer une barrière d'eau qui [#FF0000]repoussera les attaques ennemies[#000000] et [#FF0000]restaurera progressivement des PV[#000000].
+[#FF0000]Appuyez sur Neku[#FF0000] pour créer une barrière sombre qui [#FF0000]repoussera les attaques[#000000], [#FF0000]restaurera progressivement des PV[#000000] et [#FF0000]blessera les ennemis au contact[#000000]. Neku peut se déplacer lorsque la barrière est active.
+[#FF0000]Touchez un espace vide[#000000] et Neku [#FF0000]se téléportera[#000000] à cet endroit.
+[#FF0000]Touchez le badge[#000000] pour [#FF0000]restaurer des PV[#000000].
+[#FF0000]Touchez le badge[#000000] pour [#FF0000]restaurer des PV[#000000]. La récupération est plus faible, mais Neku est moins exposé aux attaques.
+[#FF0000]Touchez le badge[#000000] pour [#FF0000]restaurer des PV[#000000]. La récupération est plus forte, mais Neku est plus exposé aux attaques.
+[#FF0000]Touchez le badge[#000000] pour [#FF0000]restaurer une petite quantité de PV[#000000] et interrompre l'[#FF0000]Immobilisation[#000000].
+[#FF0000]Touchez le badge[#000000] pour [#FF0000]restaurer une petite quantité de PV[#000000] et interrompre le [#FF0000]Drain de PV[#000000].
+[#FF0000]Touchez le badge[#000000] pour [#FF0000]restaurer une petite quantité de PV[#000000] et interrompre les [#FF0000]Ruptures d'attaque ou de défense[#000000].
+[#FF0000]Touchez le badge[#000000] pour [#FF0000]restaurer une toute petite quantité de PV[#000000] et interrompre [#FF0000]tous les états négatifs[#000000].
+[#FF0000]Augmente considérablement la quantité de PV restaurés[#000000] par les badges de récupération de PV.
+[#FF0000]Utilise automatiquement les badges de récupération de PV[#000000] que porte Neku pour le soigner lorsque la jauge de PV est basse.
+Augmente l'[#FF0000]Attaque[#000000] de tous les badges [#00CC00]Sheep Heavenly[#000000] que porte Neku.
+[#FF0000]Grattez un espace vide[#000000] pour générer de l'électricité. Inflige des dégâts au contact. Continuez de gratter pour [#FF0000]augmenter la portée[#000000].
+[#FF0000]Faites glisser Neku[#000000] pour le faire sprinter et il [#FF0000]percutera[#000000] ses ennemis. Inflige des dégâts.
+[#FF0000]Faites glisser Neku[#000000] pour le faire sprinter et il [#FF0000]percutera[#000000] ses ennemis. Inflige des dégâts et projette les ennemis sur d'autres ennemis pour des [#FF0000]dégâts en chaîne[#000000].
+[#FF0000]Appuyez sur un espace vide[#000000] pour [#FF0000]lancer des étincelles dans un grand rayon[#000000]. Inflige des dégâts au contact.
+[#FF0000]Balayez Neku[#000000] et il [#FF0000]chargera[#000000] dans cette direction, renversant les ennemis sur son passage. Inflige des dégâts au contact.
+[#FF0000]Balayez Neku[#000000] et il [#FF0000]chargera rapidement[#000000] dans cette direction, renversant les ennemis sur son passage. Inflige des dégâts au contact.
+[#FF0000]Grattez un espace vide[#000000] et Neku attaquera avec une [#FF0000]entaille tournante[#000000]. Inflige des dégâts aux ennemis environnants.
+[#FF0000]Grattez un espace vide[#000000] et Neku attaquera avec une [#FF0000]entaille tournante[#000000]. Inflige des dégâts aux ennemis environnants.
+[#FF0000]Grattez un espace vide[#000000] pour créer une onde de choc. Inflige des dégâts continus à tous les ennemis et les [#FF0000]immobilise[#000000] systématiquement. (Certains ennemis peuvent être immunisés).
+[#FF0000]Touchez le badge[#000000] pour [#FF0000]restaurer des PV[#000000].
+[#FF0000]Touchez le badge[#000000] pour [#FF0000]restaurer une petite quantité de PV[#000000] et interrompre le [#FF0000]Drain de PV[#000000].
+Augmente considérablement la durée des effets négatifs de la [#FF0000]Rupture d'attaque[#000000] sur vos ennemis.
+Augmente l'[#FF0000]Attaque[#000000] de tous les badges [#00CC00]Tigre Punks[#000000] que porte Neku.
+[#FF0000]Appuyez sur un espace vide[#000000] pour tirer une balle dans cette direction qui [#FF0000]explosera au moment de la collision avec l'ennemi[#000000]. Les éclats infligent également des dégâts au contact.
+[#FF0000]Appuyez sur un espace vide[#000000] pour tirer une balle dans cette direction qui [#FF0000]explosera au moment de la collision avec l'ennemi[#000000]. Les éclats infligent également des dégâts au contact.
+[#FF0000]Appuyez sur un espace vide[#000000] pour tirer une balle dans cette direction qui [#FF0000]explosera au moment de la collision avec l'ennemi[#000000]. Les éclats infligent également des dégâts au contact.
+[#FF0000]Touchez de manière répétitive un espace vide[#000000] pour lancer des charges électriques dans un grand rayon. Inflige des dégâts au contact. Continuez pour lancer [#FF0000]plus de charges[#000000].
+[#FF0000]Balayez un espace vide[#000000] pour créer un chemin de flammes. Inflige des dégâts au contact.
+[#FF0000]Balayez un espace vide[#000000] pour créer un chemin de hautes flammes. Inflige des dégâts au contact.
+[#FF0000]Balayez un espace vide[#000000] pour créer un chemin de hautes flammes qui [#FF0000]se disperseront[#000000]. Inflige des dégâts au contact.
+[#FF0000]Appuyez sur un espace vide[#000000] pour créer une colonne de feu. Inflige des dégâts et parfois un [#FF0000]Drain de PV[#000000] au contact.
+[#FF0000]Touchez un ou plusieurs obstacles[#000000] comme des voitures et des panneaux, puis [#FF0000]touchez un espace vide[#000000] pour les y lancer. Inflige des dégâts au contact.
+[#FF0000]Touchez un ou plusieurs obstacles[#000000] comme des voitures et des panneaux, puis [#FF0000]touchez un espace vide[#000000] pour les y lancer. Inflige des dégâts au contact.
+[#FF0000]Touchez un ou plusieurs ennemis ou obstacles[#000000] comme des voitures et des panneaux, puis [#FF0000]touchez un espace vide[#000000] pour les y lancer. (Certains ennemis ne peuvent pas être lancés).
+[#FF0000]Appuyez sur un espace vide[#000000] pour créer un cercle et emprisonner les ennemis qui y pénètrent, puis [#FF0000]relâchez[#000000] pour frapper les cibles avec des éclairs.
+[#FF0000]Appuyez sur un espace vide[#000000] pour créer un cercle et emprisonner les ennemis qui y pénètrent, puis [#FF0000]relâchez[#000000] pour frapper les cibles avec des éclairs.
+[#FF0000]Appuyez sur un espace vide[#000000] pour créer un cercle et emprisonner les ennemis qui y pénètrent, puis [#FF0000]relâchez[#000000] pour frapper les cibles avec des éclairs.
+Augmente l'[#FF0000]Attaque[#000000] de tous les badges [#00CC00]Dragon Couture[#000000] que porte Neku.
+[#FF0000]Touchez un espace vide[#000000] pour tirer une [#FF0000]balle[#000000] lente dans cette direction. [#FF0000]Touchez un espace vide[#000000] en vol pour [#FF0000]modifier sa trajectoire[#000000].
+[#FF0000]Touchez un espace vide[#000000] pour tirer une [#FF0000]balle[#000000] dans cette direction. Inflige des dégâts et parfois une [#FF0000]Rupture de défense[#000000] au contact.
+[#FF0000]Appuyez sur un espace vide[#000000] pour tirer une balle dans cette direction qui [#FF0000]explosera au moment de la collision avec l'ennemi[#000000]. Les éclats infligent également des dégâts au contact.
+[#FF0000]Touchez de manière répétitive un ennemi[#000000] à n'importe quelle distance et Neku ira lui asséner un [#FF0000]déluge de coups[#000000].
+[#FF0000]Touchez de manière répétitive un ennemi[#000000] à n'importe quelle distance et Neku ira lui asséner un [#FF0000]déluge de coups[#000000].
+[#FF0000]Touchez un ennemi[#000000] pour le foudroyer. [#FF0000]Touchez d'autres ennemis[#000000] pendant que l'éclair s'abat pour faire un [#FF0000]combo[#000000].
+[#FF0000]Touchez un ennemi[#000000] pour le foudroyer. [#FF0000]Touchez d'autres ennemis[#000000] pendant que l'éclair s'abat pour faire un [#FF0000]combo[#000000].
+[#FF0000]Touchez un ennemi[#000000] pour le foudroyer. [#FF0000]Touchez d'autres ennemis[#000000] pendant que l'éclair s'abat pour faire un [#FF0000]combo[#000000].
+[#FF0000]Grattez un espace vide[#000000] pour créer une onde de choc. Inflige des dégâts continus à tous les ennemis, ainsi qu'une [#FF0000]Rupture de défense[#000000]. (Certains ennemis peuvent être immunisés).
+[#FF0000]Touchez un espace vide[#000000] pour y abattre [#FF0000]trois rochers[#000000]. Inflige des dégâts au contact. Touchez de manière répétitive pour faire pleuvoir plus de pierres.
+[#FF0000]Touchez le badge[#000000] pour [#FF0000]restaurer des PV[#000000].
+[#FF0000]Touchez le badge[#000000] pour [#FF0000]restaurer une petite quantité de PV[#000000] et interrompre les [#FF0000]Ruptures d'attaque ou de défense[#000000].
+Inflige systématiquement une [#FF0000]Rupture de défense[#000000] aux ennemis au début du combat. (Certains ennemis peuvent être immunisés).
+Augmente l'[#FF0000]Attaque[#000000] de tous les badges [#00CC00]Lapin Angelique[#000000] que porte Neku.
+[#FF0000]Tracez un cercle dans un espace vide[#000000] pour créer une charge électrique qui [#FF0000]zigzaguera sur l'écran[#000000]. Inflige des dégâts au contact.
+[#FF0000]Tracez un cercle dans un espace vide[#000000] pour créer une charge électrique qui volera en direction de l'[#FF0000]ennemi le plus proche[#000000]. Inflige des dégâts au contact.
+[#FF0000]Touchez un espace vide[#000000] pour créer un orbe d'eau stationnaire. Les orbes infligent des dégâts au contact, puis [#FF0000]rebondissent[#000000].
+[#FF0000]Balayez Neku[#000000] pour lancer un [#FF0000]boomerang pénétrant[#000000] dans cette direction. Inflige des dégâts au contact.
+[#FF0000]Balayez Neku[#000000] pour lancer un [#FF0000]boomerang pénétrant double[#000000] dans cette direction. Inflige des dégâts au contact.
+[#FF0000]Balayez un espace vide[#000000] pour lancer un éclair sur cette ligne. Inflige des dégâts au contact. [#FF0000]Continuez de balayer[#000000] pour créer [#FF0000]plusieurs éclairs[#000000].
+[#FF0000]Balayez un espace vide[#000000] pour lancer un éclair sur cette ligne. Inflige des dégâts au contact. [#FF0000]Continuez de balayer[#000000] pour créer [#FF0000]plusieurs éclairs[#000000].
+[#FF0000]Touchez un espace vide[#000000] et Neku lancera de la foudre dans cette direction. Inflige des dégâts au contact.
+[#FF0000]Touchez un espace vide[#000000] et Neku lancera de la foudre dans cette direction. Inflige des dégâts au contact.
+[#FF0000]Balayez des obstacles[#000000] comme des voitures et des panneaux pour les propulser dans cette direction. Inflige des dégâts au contact.
+[#FF0000]Balayez des obstacles[#000000] comme des voitures et des panneaux pour les propulser dans cette direction. Inflige des dégâts au contact.
+[#FF0000]Balayez des ennemis ou des obstacles[#000000], comme des voitures et des panneaux, pour les propulser dans cette direction. (Certains ennemis ne peuvent pas être lancés).
+[#FF0000]Réduit considérablement[#000000] la vitesse à laquelle les [#FF0000]jauges de badge se vident[#000000].
+Augmente l'[#FF0000]Attaque[#000000] de tous les badges [#00CC00]Pegaso[#000000] que porte Neku.
+[#FF0000]Touchez un espace vide[#000000] pour placer une bombe à cet endroit qui [#FF0000]explosera après une durée déterminée[#000000].
+[#FF0000]Appuyez sur un espace vide[#000000] pour [#FF0000]lancer des étincelles dans un grand rayon[#000000]. Inflige des dégâts au contact.
+[#FF0000]Appuyez sur un espace vide[#000000] pour [#FF0000]lancer des étincelles dans un grand rayon[#000000]. Inflige des dégâts au contact.
+[#FF0000]Appuyez sur Neku et relâchez[#000000] pour lancer une [#FF0000]attaque tranchante brutale[#000000]. Neku ne pourra pas se déplacer pendant que vous appuyez, mais les [#FF0000]pressions plus longues généreront plus de puissance[#000000].
+[#FF0000]Appuyez sur Neku et relâchez[#000000] pour lancer une [#FF0000]attaque tranchante brutale[#000000]. Neku ne pourra pas se déplacer pendant que vous appuyez, mais les [#FF0000]pressions plus longues généreront plus de puissance[#000000].
+[#FF0000]Appuyez sur Neku et relâchez[#000000] pour lancer une [#FF0000]attaque tranchante brutale[#000000]. Neku ne pourra pas se déplacer pendant que vous appuyez, mais les [#FF0000]pressions plus longues généreront plus de puissance[#000000].
+[#FF0000]Balayez un ennemi vers le bas[#000000] et Neku se téléportera au-dessus de lui avant de lui asséner un [#FF0000]coup de couteau vers le bas[#000000].
+[#FF0000]Balayez un ennemi vers le bas[#000000] et Neku se téléportera au-dessus de lui avant de lui asséner un [#FF0000]coup de couteau vers le bas[#000000].
+[#FF0000]Tracez un cercle dans un espace vide[#000000] pour lancer un [#FF0000]météore[#000000] à cet endroit qui explosera à l'impact. Inflige des dégâts [#FF0000]avant et après[#000000] l'explosion.
+[#FF0000]Tracez un cercle dans un espace vide[#000000] pour lancer un [#FF0000]météore[#000000] à cet endroit qui explosera à l'impact. Inflige des dégâts [#FF0000]avant et après[#000000] l'explosion.
+[#FF0000]Tracez un cercle dans un espace vide[#000000] pour lancer un [#FF0000]météore[#000000] à cet endroit qui explosera à l'impact. Inflige des dégâts [#FF0000]avant et après[#000000] l'explosion.
+Augmente considérablement la durée des effets négatifs de la [#FF0000]Rupture de défense[#000000] sur vos ennemis.
+Augmente l'[#FF0000]Attaque[#000000] de tous les badges [#00CC00]Wild Boar[#000000] que porte Neku.
+Seul, ce badge n'a aucun pouvoir. On peut y lire la phrase : \x22Les joies d'un [#FF0000]univers créé et détruit[#000000], amis à travers le temps, seront votre rayon de lumière\x22.
+Seul, ce badge n'a aucun pouvoir. On peut y lire la phrase : \x22Les joies d'un [#FF0000]univers créé et détruit[#000000], amis à travers le temps, seront votre rayon de lumière\x22.
+Seul, ce badge n'a aucun pouvoir. On peut y lire la phrase : \x22Vent, bois, flamme et monture : [#FF0000]ainsi devez-vous être[#000000] pour errer dans les champs de bataille\x22.
+Seul, ce badge n'a aucun pouvoir. On peut y lire la phrase : \x22Vent, bois, flamme et monture : [#FF0000]ainsi devez-vous être[#000000] pour errer dans les champs de bataille\x22.
+Seul, ce badge n'a aucun pouvoir. On peut y lire la phrase : \x22Vent, bois, flamme et monture : [#FF0000]ainsi devez-vous être[#000000] pour errer dans les champs de bataille\x22.
+Seul, ce badge n'a aucun pouvoir. On peut y lire la phrase : \x22Vent, bois, flamme et monture : [#FF0000]ainsi devez-vous être[#000000] pour errer dans les champs de bataille\x22.
+[#FF0000]Balayez un espace vide[#000000] pour créer un chemin de hautes flammes. Inflige des dégâts au contact. On peut lire sur le badge : \x22Lorsque [#FF0000]six planètes claires-obscures[#000000] s'alignent...\x22.
+[#FF0000]Balayez un espace vide[#000000] pour lancer un éclair sur cette ligne. Inflige des dégâts au contact. On peut lire sur le badge : \x22Lorsque [#FF0000]six planètes claires-obscures[#000000] s'alignent...\x22.
+[#FF0000]Balayez vers le haut sur un espace vide[#000000] pour créer un stalactite. Inflige des dégâts au contact. On peut lire sur le badge : \x22Lorsque [#FF0000]six planètes claires-obscures[#000000] s'alignent...\x22.
+[#FF0000]Touchez un espace vide[#000000] pour tirer une [#FF0000]balle[#000000] dans cette direction. Inflige des dégâts au contact. On peut lire sur le badge : \x22Lorsque [#FF0000]six planètes claires-obscures[#000000] s'alignent...\x22.
+[#FF0000]Appuyez sur Neku[#000000] pour créer une barrière sombre qui [#FF0000]restaurera des PV et blessera vos ennemis[#000000]. Déplacement possible. On peut lire sur le badge : \x22Lorsque [#FF0000]six planètes claires-obscures[#000000] s'alignent...\x22.
+[#FF0000]Touchez un espace vide[#000000] pour créer un orbe d'eau stationnaire. Les orbes rebondissent au contact. On peut lire sur le badge : \x22Lorsque [#FF0000]six planètes claires-obscures[#000000] s'alignent...\x22.
+Seul, ce badge n'a aucun pouvoir. On peut y lire la phrase : \x22Une puissance implacable, utilisée avec sagesse et courage, devrait briser le [#FF0000]sort omniprésent des dieux[#000000]\x22.
+Seul, ce badge n'a aucun pouvoir. On peut y lire la phrase : \x22Un courage farouche, accompagné de sagesse et de puissance, devrait briser le [#FF0000]sort omniprésent des dieux[#000000]\x22.
+Seul, ce badge n'a aucun pouvoir. On peut y lire la phrase : \x22Une sagesse sinistre, doublée de puissance et de courage, devrait briser le [#FF0000]sort omniprésent des dieux[#000000]\x22.
+On peut lire sur le badge : \x22Une déesse éplorée avait laissé une prophétie aux cinq royaumes en guerre ici-bas : que leur monde s'achève dans le plus noir des feux solaires\x22.
+On peut lire sur le badge : \x22Mais sa prophétie était teintée d'espoir. La déesse avait promis à tous les êtres vivants, petits et grands, une [#FF0000]Lumière salvatrice pour faire obstacle à leur destin tragique[#000000]\x22.
+On peut lire sur le badge : \x22Toutefois, les cinq rois refusèrent de la croire. L'un chercha la force mais trouva la futilité, et un autre sombra dans une sagesse inconsciente\x22.
+On peut lire sur le badge : \x22Pour finir, les illusions des rois les menèrent vers la salle du jugement dernier, où leur chaos inutilisé apporta peur et malheur à l'humanité\x22.
+On peut lire sur le badge : \x22À présent, alors que le garçon se tient devant l'Eden, les [#FF0000]cinq rois dans son sillage[#000000], la déesse récompense son jugement objectif en lui donnant sa Lumière\x22.
+[#FF0000]Restaure automatiquement tous les PV[#000000] lorsque la jauge est basse et [#FF0000]annule les états négatifs[#000000] si nécessaire.
+[#FF0000]Ralentit[#000000] les mouvements de Neku.
+Augmente l'[#FF0000]Attaque[#000000] de tous les badges [#00CC00]Gatito[#000000] que porte Neku.
+Un badge spécial utilisé dans les tournois. Celui-ci est destiné aux débutants dans Tin Pin Slammer. [#FF0000]Grattez longuement un ennemi[#000000] pour activer son psych.
+Un badge spécial utilisé dans les tournois. Les badges modifiés comme celui-ci sont interdits dans le jeu officiel. [#FF0000]Appuyez sur un espace vide[#000000] pour activer son psych.
+Un badge spécial utilisé dans les tournois Yammer fait pour TP personnalisé. [#FF0000]Balayer autour de Neku[#000000]  pour activer son psych.
+Un badge spécial utilisé dans les tournois. Yammer considère cette modification TP vent comme son chef d'œuvre. [#FF0000]Grattez un espace vide[#000000] pour activer son psych.
+Un badge spécial utilisé dans les tournois. Sa modification est inspirée de guerriers sur roues et de bolides vrombissant. [#FF0000]Faites glisser Neku[#000000] pour activer son psych.
+Un badge spécial utilisé dans les tournois. Le champion américain utilise le même genre de badge. [#FF0000]Faites glisser Neku[#000000] pour activer son psych.
+Un badge présentant un motif naturel. Met son porteur en [#FF0000]danger de mort[#000000] au début du combat, mais cet état augmente l'[#FF0000]Attaque[#000000] et l'[#FF0000]XP gagnée[#000000].
+Un badge spécial utilisé dans les tournois. Il a été conçu par l'inventeur du Slammer solide. [#FF0000]Balayez Neku[#000000] pour activer son psych.
+Un badge spécial utilisé dans les tournois. Il a été conçu par l'inventeur du Slammer solide. [#FF0000]Appuyez sur un espace vide[#000000] pour activer son psych.
+Un badge spécial utilisé dans les tournois. Les fans de Def Märch ont été les premiers à posséder cet ornement officiel. [#FF0000]Grattez un espace vide[#000000] pour activer son psych.
+Un badge spécial utilisé dans les tournois. Ce design rare n'était [#FF0000]pas censé être commercialisé[#000000]. [#FF0000]Balayez un espace vide[#000000] pour activer son psych.
+Un badge spécial utilisé dans les tournois. Sur la boîte originale, on pouvait lire : [#FF0000]\x22Fabriqué par le mal\x22[#000000]. [#FF0000]Balayez un espace vide[#000000] pour activer son psych.
+Un badge puissant et de première classe qui représente une bête divine dominant des flammes. [#FF0000]Touchez un espace vide[#000000] pour activer son psych.
+Un badge puissant et de première classe avec un design digne de son homonyme, la Reine de glace. [#FF0000]Touchez de manière répétitive un espace vide[#000000] pour activer son psych.
+[#FF0000]Alias le \x22badge du héros\x22.[#000000] Les gens n'y voient qu'un jouet, mais il est en or véritable. [#FF0000]Grattez un espace vide[#000000] pour activer son psych.
+Le badge ultime : celui du [#FF0000]Roi dragon[#000000]. [#FF0000]Appuyez sur un espace vide[#000000] pour activer son psych, que les Reapers appellent craintivement la [#FF0000]\x22Super Nova\x22[#000000].
+Vendez ce badge pour [#FF0000]1 $[#000000]. Faites glisser vos badges vers la poubelle pour les échanger contre de l'argent.
+Vendez ce badge pour [#FF0000]5 $[#000000]. Faites glisser vos badges vers la poubelle pour les échanger contre de l'argent.
+Vendez ce badge pour [#FF0000]10 $[#000000]. Faites glisser vos badges vers la poubelle pour les échanger contre de l'argent.
+Vendez ce badge pour [#FF0000]50 $[#000000]. Faites glisser vos badges vers la poubelle pour les échanger contre de l'argent.
+Vendez ce badge pour [#FF0000]100 $[#000000]. Faites glisser vos badges vers la poubelle pour les échanger contre de l'argent.
+Vendez ce badge pour [#FF0000]500 $[#000000]. Faites glisser vos badges vers la poubelle pour les échanger contre de l'argent.
+Vendez ce badge pour [#FF0000]1,000 $[#000000]. Faites glisser vos badges vers la poubelle pour les échanger contre de l'argent.
+Vendez ce badge pour [#FF0000]5,000 $[#000000]. Faites glisser vos badges vers la poubelle pour les échanger contre de l'argent.
+Vendez ce badge pour [#FF0000]10,000 $[#000000]. Faites glisser vos badges vers la poubelle pour les échanger contre de l'argent.
+Vendez ce badge pour [#FF0000]100,000 $[#000000]. Faites glisser vos badges vers la poubelle pour les échanger contre de l'argent.
+Un badge incrusté d'une gemme rouge. Dans certaines quêtes de boutique, vous pouvez l'échanger contre un [#FF0000]objet essentiel au développement du personnage[#000000].
+Un badge incrusté de gemmes ambrées. Dans certaines quêtes de boutique, vous pouvez l'échanger contre un [#FF0000]objet[#000000].
+Un badge incrusté de gemmes jaunes. Dans certaines quêtes de boutique, vous pouvez l'échanger contre un [#FF0000]objet convenable[#000000].
+Un badge incrusté de gemmes vertes. Dans certaines quêtes de boutique, vous pouvez l'échanger contre un [#FF0000]bon objet[#000000].
+Un badge incrusté de gemmes bleu ciel. Dans certaines quêtes de boutique, vous pouvez l'échanger contre un [#FF0000]objet extraordinaire[#000000].
+Un badge incrusté de gemmes azurées. Dans certaines quêtes de boutique, vous pouvez l'échanger contre un [#FF0000]objet rare[#000000].
+Un badge incrusté de gemmes violettes. Dans certaines quêtes de boutique, vous pouvez l'échanger contre un [#FF0000]objet très rare[#000000].
+[#FF0000]Touchez un espace vide[#000000] pour invoquer l'Écho écureuil de Rhyme à cet endroit, où elle attaquera tous les ennemis présents.
+Un produit dérivé vendu lors d'un concert du trio rock épique Def Märch. Peut rapporter [#FF0000]20,000 $[#000000] dans le commerce. Échangez-le contre [#FF0000]un objet exceptionnel[#000000] dans une boutique.
+Un produit dérivé en ligne de la BD princière d'Eiji Oji, \x22Porcherie de luxe\x22. Peut rapporter  [#FF0000]50,000 $[#000000] dans le commerce. Échangez-le contre [#FF0000]un objet exceptionnel[#000000] dans une boutique.
+Voici Sato-chan, l'adorable mascotte de la  pharmacie de Bella Donna. Peut rapporter [#FF0000]80,000 $[#000000] dans le commerce. Échangez-le contre  [#FF0000]un objet exceptionnel[#000000] dans une boutique.
+[#FF0000]Balayez un espace vide[#000000] pour créer un chemin de flammes. Inflige des dégâts au contact.
+[#FF0000]Balayez un ennemi[#000000] à n'importe quelle distance et Neku ira lui asséner une frappe horizontale. [#FF0000]Continuez à le balayer[#000000] pour infliger un coup final qui [#FF0000]repoussera l'ennemi[#000000].
+[#FF0000]Touchez le badge[#000000] pour [#FF0000]restaurer des PV[#000000].
+[#FF0000]Touchez un espace vide[#000000] pour tirer une [#FF0000]balle[#000000] dans cette direction. Inflige des dégâts au contact. Portée limitée.
+[#FF0000]Balayez des obstacles[#000000] comme des voitures et des panneaux pour les propulser dans cette direction. Inflige des dégâts au contact.
+[#FF0000]Touchez un ennemi[#000000] pour le foudroyer. [#FF0000]Touchez d'autres ennemis[#000000] pendant que l'éclair s'abat pour faire un [#FF0000]combo[#000000].
+Un badge rare que s'échangent souvent les membres féminines des Reapers. Portez-le pour gagner le cœur de l'être aimé. [#FF0000]Touchez de manière répétitive un ennemi[#000000] pour activer son psych.
+Un badge conçu par un Reaper obsédé par le curry. Portez-le et vous aurez toujours de la place dans l'estomac. [#FF0000]Touchez le badge[#000000] pour restaurer des PV.
+Un badge conçu par un Reaper amateur de balades. Portez-le et votre vie deviendra une promenade de santé. [#FF0000]Faites glisser Neku[#000000] pour qu'il sprinte : il disparaîtra en devenant alors [#FF0000]insensible[#000000] aux attaques ennemies.
+\x22Je ne suis pas antisocial, je suis introspectif\x22 pourrait être la devise du Reaper qui a conçu ce badge. [#FF0000]Appuyez sur un espace vide[#000000] pour activer son psych.
+Un badge inspiré du majestueux mont Fuji, la plus haute montagne du Japon. [#FF0000]Touchez de manière répétitive un espace vide[#000000] pour activer son psych.
+Un badge inspiré d'un daruma rondouillard, un porte-bonheur traditionnel japonais. [#FF0000]Tracez un cercle dans un espace vide[#000000] pour activer son psych.
+Un badge sur le thème du sushi, ce plat traditionnel japonais mariant le poisson cru et le riz. [#FF0000]Touchez de manière répétitive un ennemi[#000000] pour activer son psych.
+Un badge inspiré de la tradition japonaise super cool du ninja. [#FF0000]Balayez Neku[#000000] pour activer son psych.
+[#FF0000]Touchez de manière répétitive un espace vide[#000000] pour créer trois stalactites. Inflige des dégâts au contact.
+[#FF0000]Appuyez sur un espace vide[#000000] pour tirer une balle dans cette direction qui [#FF0000]explosera au moment de la collision avec l'ennemi[#000000]. Les éclats infligent également des dégâts au contact.
+[#FF0000]Grattez un espace vide[#000000] pour générer de l'électricité. Inflige des dégâts au contact. Continuez de gratter pour [#FF0000]augmenter la portée[#000000].
+[#FF0000]Tracez un cercle dans un espace vide[#000000] pour créer un trou noir qui [#FF0000]aspirera les ennemis[#000000]. Ne génère aucun point d'XP. (Certains ennemis ne seront peut-être pas affectés).
+[#FF0000]Touchez un espace vide[#000000] et Neku [#FF0000]se téléportera[#000000] à cet endroit.
+[#FF0000]Touchez un ennemi[#000000] pour le foudroyer. [#FF0000]Touchez d'autres ennemis[#000000] pendant que l'éclair s'abat pour faire un [#FF0000]combo[#000000].
+[#FF0000]Touchez un espace vide[#000000] pour y abattre [#FF0000]cinq rochers[#000000]. Inflige des dégâts au contact. Touchez de manière répétitive pour faire pleuvoir plus de pierres.
+[#FF0000]Touchez un espace vide[#000000] pour tirer une [#FF0000]balle pénétrante[#000000] dans cette direction. Inflige des dégâts au contact.
+[#FF0000]Touchez un espace vide[#000000] pour tirer un [#FF0000]boomerang pénétrant[#000000] dans cette direction. Inflige des dégâts au contact.
+[#FF0000]Grattez un espace vide[#000000] pour créer un tourbillon. Inflige des dégâts à tous les ennemis et les [#FF0000]immobilise[#000000] systématiquement. (Certains ennemis peuvent être immunisés).
+[#FF0000]Balayez un ennemi vers le bas[#000000] et Neku se téléportera au-dessus de lui avant de lui asséner un [#FF0000]coup de couteau vers le bas[#000000].
+[#FF0000]Appuyez sur un ennemi[#000000] pour l'immobiliser dans la glace. (Certains ennemis ne seront peut-être pas affectés).
+[#FF0000]Balayez Neku[#000000] pour lancer un petit orbe de feu dans cette direction. Inflige des dégâts au contact. Les orbes [#FF0000]rebondissent sur les murs et les ennemis[#000000].
+[#FF0000]Balayez Neku[#000000] pour lancer un [#FF0000]boomerang pénétrant double[#000000] dans cette direction. Inflige des dégâts au contact.
+[#FF0000]Appuyez sur Neku et relâchez[#000000] pour lancer une [#FF0000]attaque tranchante brutale[#000000]. Neku ne pourra pas se déplacer pendant que vous appuyez, mais les [#FF0000]pressions plus longues généreront plus de puissance[#000000].
+[#FF0000]Touchez un espace vide[#000000] pour placer une bombe à cet endroit qui [#FF0000]explosera après une durée déterminée[#000000].
+[#FF0000]Grattez un espace vide[#000000] pour causer une secousse. Inflige des dégâts et [#FF0000]immobilise[#000000] parfois des ennemis.
+[#FF0000]Faites glisser des obstacles[#000000] comme des voitures et des panneaux. Inflige des dégâts au contact.
+[#FF0000]Appuyez sur un espace vide[#000000] pour créer une colonne de feu. Inflige des dégâts et parfois un [#FF0000]Drain de PV[#000000] au contact.
+[#FF0000]Appuyez sur un espace vide[#000000] pour tirer un [#FF0000]rayon pénétrant puissant[#000000] dans cette direction. Inflige des dégâts au contact.
+[#FF0000]Augmente considérablement votre taux de butin[#000000] mais, en contrepartie, vous ne recevrez plus d'XP et de PB.
+[#FF0000]Appuyez sur Neku[#000000] et restez immobile pour créer une barrière de flammes qui [#FF0000]repoussera les attaques ennemies[#000000] et [#FF0000]blessera les ennemis[#000000] au contact.
+[#FF0000]Grattez un espace vide[#000000] pour créer une onde de choc. Inflige des dégâts continus à tous les ennemis et parfois un [#FF0000]Drain de PV[#000000].
+[#FF0000]Faites glisser Neku[#000000] pour le faire sprinter et il [#FF0000]percutera[#000000] ses ennemis. Inflige des dégâts.
+[#FF0000]Touchez un espace vide[#000000] pour créer un petit orbe d'eau stationnaire. Les orbes infligent des dégâts au contact, puis [#FF0000]rebondissent sur une longue distance[#000000].
+[#FF0000]Faites glisser un espace vide[#000000] pour allumer un rempart de feu qui inflige des dégâts aux ennemis qu'il touche. Il laisse ensuite [#FF0000]place à une tornade qui propulse les ennemis en l'air[#000000].
+[#FF0000]Grattez un espace vide[#000000] pour attaquer avec une [#FF0000]entaille tournante[#000000] tout en créant une [#FF0000]onde de choc[#000000] qui blesse les ennemis qu'elle touche.
+[#FF0000]Balayez Neku[#000000] pour invoquer [#FF0000]trois colonnes de feu[#000000] dans cette direction, qui infligent des dégâts à tous les ennemis qu'elles touchent.
+[#FF0000]Balayez Neku[#000000] pour [#FF0000]le projeter physiquement[#000000] dans cette direction, en infligeant des dégâts à tous les ennemis qu'il touche. Il continuera à charger jusqu'à ce que la jauge soit vide ou que vous interrompiez l'action.
+[#FF0000]Balayez un espace vide de bas en haut[#000000] pour faire apparaître plusieurs épées et infliger des dégâts à tous les ennemis qu'elles touchent.
+[#FF0000]Touchez un espace vide[#000000] pour \nsauter lentement dans cette direction et tirer un [#FF0000]grand projectile[#000000]. Ensuite, [#FF0000]vous pouvez changer de direction en touchant à nouveau un espace vide[#000000].
+[#FF0000]Balayez un espace vide[#000000] pour faire apparaître une chaîne qui [#FF0000]fige[#000000] tous les ennemis qu'elle touche. (Certains ennemis peuvent être immunisés).
+[#FF0000]Appuyez sur Neku[#000000] pour faire voler des épées qui infligent des dégâts aux ennemis environnants. Ensuite, [#FF0000]plusieurs autres épées apparaissent si vous continuez à appuyer sur Neku[#000000].
+[#FF0000]Balayez Neku[#000000] pour tirer un [#FF0000]rayon thermique[#000000] dans cette direction, qui inflige des dégâts à tous les ennemis qu'il touche.
+[#FF0000]Balayez un ennemi de bas en haut[#000000] pour vous téléporter au-dessus de sa tête et asséner une [#FF0000]attaque de feu dévastatrice[#000000]. \x22[#FF0000]Enfin s'allient trois royaumes noyés de vermeil[#000000]...\x22 est inscrit sur le badge.
+[#FF0000]Balayez un ennemi[#000000] pour vous déplacer pendant le balayage. Les [#FF0000]flammes changent de forme[#000000] selon la direction du balayage. Une inscription figure sur le badge : \x22[#FF0000]Enfin s'allient trois royaumes noyés de vermeil[#000000]...\x22
+[#FF0000]Balayez un ennemi de bas en haut[#000000] pour vous téléporter au-dessus de sa tête et asséner une attaque de feu dévastatrice. Une inscription figure sur le badge : \x22[#FF0000]Enfin s'allient trois royaumes noyés de vermeil[#000000]...\x22
+[#FF0000]Appuyez sur un espace vide[#000000] pour [#FF0000]décocher plusieurs épées[#000000] dans cette direction, qui infligent des dégâts à tous les ennemis qu'elles touchent. Ensuite, vous pouvez les faire changer de direction en glissant le doigt.
+[#FF0000]Touchez un espace vide[#000000] pour créer une sphère d'électricité stationnaire qui inflige des dégâts à tous les ennemis qu'elle touche. Elle [#FF0000]reste fixe même si un ennemi la touche[#000000].
+[#FF0000]Balayez un espace vide[#000000] pour faire apparaître une chaîne qui [#FF0000]inflige des dégâts à tous les ennemis qu'elle touche tout en vous rendant des PV[#000000].
+Un badge incrusté de gemmes roses. Dans certaines quêtes de boutique, vous pouvez l'échanger contre un [#FF0000]objet utile[#000000].
+Un badge incrusté de gemmes roses doubles. Dans certaines quêtes de boutique, vous pouvez l'échanger contre un [#FF0000]assez bon objet[#000000].
+Un badge incrusté de gemmes roses triples. Dans certaines quêtes de boutique, vous pouvez l'échanger contre un [#FF0000]super objet[#000000].

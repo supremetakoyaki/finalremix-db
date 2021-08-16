@@ -1,0 +1,15 @@
+D:\GitHub\finalremix-db\finalremix-generators\bin\Debug\net6.0\finalremix-generators.exe
+D:\GitHub\finalremix-db\finalremix-generators\bin\Debug\net6.0\finalremix-generators.deps.json
+D:\GitHub\finalremix-db\finalremix-generators\bin\Debug\net6.0\finalremix-generators.runtimeconfig.json
+D:\GitHub\finalremix-db\finalremix-generators\bin\Debug\net6.0\finalremix-generators.dll
+D:\GitHub\finalremix-db\finalremix-generators\bin\Debug\net6.0\ref\finalremix-generators.dll
+D:\GitHub\finalremix-db\finalremix-generators\bin\Debug\net6.0\finalremix-generators.pdb
+D:\GitHub\finalremix-db\finalremix-generators\obj\Debug\net6.0\finalremix-generators.csproj.AssemblyReference.cache
+D:\GitHub\finalremix-db\finalremix-generators\obj\Debug\net6.0\finalremix-generators.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\finalremix-db\finalremix-generators\obj\Debug\net6.0\finalremix-generators.AssemblyInfoInputs.cache
+D:\GitHub\finalremix-db\finalremix-generators\obj\Debug\net6.0\finalremix-generators.AssemblyInfo.cs
+D:\GitHub\finalremix-db\finalremix-generators\obj\Debug\net6.0\finalremix-generators.csproj.CoreCompileInputs.cache
+D:\GitHub\finalremix-db\finalremix-generators\obj\Debug\net6.0\finalremix-generators.dll
+D:\GitHub\finalremix-db\finalremix-generators\obj\Debug\net6.0\ref\finalremix-generators.dll
+D:\GitHub\finalremix-db\finalremix-generators\obj\Debug\net6.0\finalremix-generators.pdb
+D:\GitHub\finalremix-db\finalremix-generators\obj\Debug\net6.0\finalremix-generators.genruntimeconfig.cache

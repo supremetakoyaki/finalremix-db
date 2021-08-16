@@ -1,0 +1,19 @@
+Mus Rattus
+D+B
+Tigre Punks
+Lapin Angelique
+Dragon Couture
+Hip Snake
+Pegaso
+Sheep Heavenly
+J of the M
+Pavo Real
+Natural Puppy
+Wild Boar
+Gatito
+
+Sin marca
+Ataque [#FF0000]duplicado
+Ataque [#FF0000]+50 %
+Ataque [#FF0000]+20 %
+Ataque [#0808FF]-50%

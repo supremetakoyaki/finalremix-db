@@ -1,0 +1,353 @@
+Neku
+Shiki
+Joshua
+Beat
+Angriff
+Verteidigung
+LP
+Mut
+Fundrate
+Synchro-Rate
+Erford. Mut
+Freunde
+Noise
+Objekte
+Pins
+Kapitel
+Tin Pin
+Geselligkeit
+Taten
+[#FF0000]Engel[#000000]
+[#FF0000]Reaper[#000000]
+[#FF0000]A[#000000]
+[#FF0000]B[#000000]
+[#FF0000]C[#000000]
+------
+------
+------
+------
+/
+\xff\xd2 [#0808FF]+\xff\xd1
+\xff\xd2 [#FF0000]-\xff\xd1
+\xff\xd0/\xff\xd0
+Zur Aktivierung: \xff\xd2
+Auf den Pin tippen
+Hieb auf Neku
+Auf Neku drücken
+Neku ziehen
+Gerät schütteln
+Hieb auf Gegner
+Auf Gegner tippen
+Schnell auf Gegner tippen
+Auf Gegner kratzen
+Auf Gegner drücken
+Auf Gegner drücken
+Hieb auf Hindernis
+Auf Hindernis tippen
+Auf Hindernis drücken
+Hindernis ziehen
+Hieb auf Gegner/Hindernis
+Auf Gegner/Hindernis tippen
+Gegner/Hindernis ziehen
+Hieb im leeren Raum
+Im leeren Raum tippen
+Schnell im leeren Raum tippen
+Im leeren Raum kratzen
+Im leeren Raum drücken
+Im leeren Raum ziehen
+------
+Dauer: [#FF0000]\xff\xd0,\xff\xd0[#000000] Sek.
+Dauer: [#FF0000]\xff\xd0[#000000] Anw.
+Dauer: [#FF0000]\xff\xd0[#000000] Anw.
+Sofortige Aufladung
+Einsatzbereit in [#FF0000]\xff\xd0,\xff\xd0[#000000] Sek.
+------
+Wiederaufladung in [#FF0000]\xff\xd0,\xff\xd0[#000000] Sek.
+Klamotten:
+Kopfbedeckung
+Oberteil
+Unterteil
+Ober- und Unterteil
+Fußbekleidung
+Zubehör
+Essensobjekt
+Zeug
+Speicherdatum
+Speicherzeit
+Kapitel
+Gegend
+\xff\xd0\xff\xd0.\xff\xd0.\xff\xd0\xff\xd0
+\xff\xd0. \xff\xd2 \xff\xd0
+\xff\xd0\xff\xd0:\xff\xd0\xff\xd0 Uhr
+\xff\xd0:\xff\xd0\xff\xd0 Uhr vormittags
+\xff\xd0:\xff\xd0\xff\xd0 Uhr nachmittags
+\xff\xd2, Tag \xff\xd0
+\x22Ein weiterer Tag\x22
+[#FF0000]Spieldauer:  \xff\xd0 Std. \xff\xd0 Min.
+Jan.
+Feb.
+Mär.
+Apr.
+Mai
+Jun.
+Jul.
+Aug.
+Sep.
+Okt.
+Nov.
+Dez.
+Spielfortschritt speichern?\nDu kannst später ab diesem Speicherpunkt weiterspielen.
+[#0808FF]Speichert ... Bitte nicht die Konsole ausschalten\noder die Softwarekarte entfernen!
+Speichervorgang abgeschlossen.
+Daten werden überprüft\nBitte das Gerät nicht ausschalten
+Daten-Überprüfung abgeschlossen.\n\nDieses Spiel speichert automatisch.\nBei jeder Speicherung deines Fortschritts\nwird ein Speichersymbol angezeigt.
+Lade deine gespeicherten Daten.
+Laden ...
+Ladevorgang abgeschlossen.
+Berühre die Speicher-Schaltfläche . . . SPEICHERN\nDrücke auf den B-Knopf . . . . . . . . . . . . LADEN
+Backup-Speicher wird initialisiert ...
+Backup-Speicher initialisiert.
+Speicherdaten können nicht gelesen werden.
+Speicherdaten können nicht geschrieben werden.
+ESP-Begabte
+Zivilisten
+Fremde
+ESP-Rang
+ESP-Punkte
+Noise-Bericht
+Pin-Beherrschung
+Objektsammlung
+Kampfzeit
+\xff\xd0 Pkte.
+\xff\xd0 Pkt.
+\xff\xd0 Arten
+\xff\xd0 Art
+\xff\xd0,\xff\xd0 %
+\xff\xd0\xff\xd0:\xff\xd0\xff\xd0:\xff\xd0\xff\xd0
+\xff\xd0:\xff\xd0\xff\xd0:\xff\xd0\xff\xd0
+\xff\xd0
+--
+★
+A
+B
+C
+D
+E
+Gott
+Dämon
+Engel
+Gefallener Engel
+Komponist
+Dirigent
+Reaper
+Meisterspieler
+Übernatürliches Talent
+Löffelbieger
+Nur ein Mensch
+Überprüfe deine Informationen.
+Der oben angezeigte Inhalt wird gesendet.\nNachdem du gesellig warst, wird dein Spiel gespeichert.
+Kommunikation beenden, wenn\ndie Betriebsanzeige rot leuchtet
+Kommunikation beenden, wenn dieser\nGeselligkeitszähler null erreicht
+Kommunikation beenden und speichern
+Die Betriebsanzeige leuchtet rot!\nDie Kommunikation wurde beendet.
+Du kannst mit \xff\xd0 weiteren Personen gesellig sein.
+Du kannst mit \xff\xd0 weiteren Person gesellig sein.
+Die Geselligkeit beginnt!\nWenn du möchtest, kannst du deinen DS zuklappen.\nDie Party geht auch ohne dich weiter.
+Kommunikation wird beendet.
+Du hast deine maximale Geselligkeit erreicht!\nDie Kommunikation wurde beendet.\nBerühre zum Speichern [#FF0000]FERTIG![#000000]
+[#FF0000]Speichert ... Bitte nicht die Konsole ausschalten\noder die Softwarekarte entfernen!
+Du hattest eine Begegnung mit [#FF0000]\xff\xd2[#000000]!
+Du hast [#FF0000]\xff\xd0 $[#000000] verdient!
+Du hattest schon wieder eine Begegnung mit [#FF0000]\xff\xd2[#000000], aber
+jede Person zählt pro Stunde nur einmal.
+Du hattest eine Begegnung mit [#FF0000]\xff\xd2[#000000] ...
+[#FF0000]Richte deinen Geselligkeitsmodus-Laden ein[#000000]
+einem Kuckuck
+einem fliegenden Schwein
+einem Plutonier
+einem Jupiteraner
+einer unbekannten Lebensform
+einer Pechsträhne
+deiner großen Chance
+deinem Herzblatt
+dem Wind der Veränderung
+genau dem, was du brauchst
+einer verpassten Gelegenheit
+einem Gefühl, das dich nicht loslässt
+einer Kindheitserinnerung
+dem Helden in dir
+einer tollen Stimmung
+der wahren Liebe
+deinem Märchenprinzen
+einem geheimen Verehrer
+deinem zukünftigen Lover
+deiner Hoffnung für die Zukunft
+Glück am Stiel
+einem rachsüchtigen Geist
+dem Unmöglichen
+heißem Kaffee
+einem schrecklichen Juju
+dem Typen vor dir
+dem Türrahmen des Lebens
+einer schrecklichen Furie
+dir selbst in 20 Jahren
+einem anderen Selbst
+Fähigkeit gesperrt
+Du hast dir die Fähigkeit dieses Objekts noch nicht angeeignet. Um sie zu bekommen, musst du [#FF0000]dich mit dem richtigen Verkäufer anfreunden[#000000], der dir die entsprechende [#FF0000]Insider-Info[#000000] gibt.
+\xff\xd2-Fähigkeit
+Fähigkeit
+Dies ist eine [#FF0000]Fähigkeit[#000000], die allein durch Tragen des\nPins aktiviert wird. Steigere seine Stufe, um seinen Wert zu erhöhen.
+Dies ist ein [#FF0000]positives[#000000] Psych.\nSteigere seine Stufe, um seinen Angriff zu erhöhen.
+Dies ist ein [#FF0000]negatives[#000000] Psych.\nSteigere seine Stufe, um seinen Angriff zu erhöhen.
+Steigere seine Stufe, um seine Kraft zu erhöhen.
+Fähigkeits-Pin
+Positiv
+Negativ
+Neutral
+Verspeise dies, um [#FF0000]deine Synchro-Rate um ca. \xff\xd0 %[#000000] zu erhöhen. Nach der Verdauung durch das Bestreiten von Kämpfen wird dein [#FF0000]Angriff um \xff\xd0 erhöht[#000000].
+Verspeise dies, um [#FF0000]deine Synchro-Rate um ca. \xff\xd0 %[#000000] zu erhöhen. Nach der Verdauung durch das Bestreiten von Kämpfen wird deine [#FF0000]Verteidigung um \xff\xd0 erhöht[#000000].
+Verspeise dies, um [#FF0000]deine Synchro-Rate um ca.\n\xff\xd0 %[#000000] zu erhöhen. Nach der Verdauung durch das Bestreiten von Kämpfen wird dein [#FF0000]LP-Maximum um \xff\xd0 erhöht[#000000].
+Verspeise dies, um [#FF0000]deine Synchro-Rate um ca.\n\xff\xd0 %[#000000] zu erhöhen. Nach der Verdauung durch das Bestreiten von Kämpfen wird dein [#FF0000]Mut um \xff\xd0 erhöht[#000000].
+Verspeise dies, um [#FF0000]deine Synchro-Rate um ca. \xff\xd0 %[#000000] zu erhöhen. Nach der Verdauung durch das Bestreiten von Kämpfen wird deine [#FF0000]Fundrate um \xff\xd0 erhöht[#000000].
+Verspeise dies, um [#FF0000]deine Synchro-Rate um ca. \xff\xd0 %[#000000] zu erhöhen. Nach der Verdauung durch das Bestreiten von Kämpfen [#FF0000]erreichst du eine Synchro-Rate von \xff\xd0 %[#000000].
+Wenn du dies im Kampf verspeist, werden [#FF0000]Angriff, Verteidigung und Mut um 10[#000000] und das [#FF0000]LP-Maximum um 100 erhöht[#000000].
+Kann mit \xff\xd0 Bissen verspeist werden.
+Kann mit \xff\xd0 Bissen verspeist werden.
+
+Du kannst dieses Objekt [#FF0000]nicht verspeisen[#000000]!
+Es sei denn, du möchtest\ndas Bauchweh deines Lebens bekommen.
+Du kannst dieses Objekt [#FF0000]noch nicht[#000000] verspeisen!
+Du bist total voll und platzt gleich aus allen Nähten.\nBestreite ein paar Kämpfe, um etwas Raum zu schaffen!
+Du kannst dieses Objekt [#FF0000]nicht mehr[#000000] essen!
+Du musst bis [#FF0000]morgen[#000000] in\nEchtzeit warten, bevor du das essen kannst.
+Du bist noch nicht [#FF0000]mutig[#000000] genug, um das zu tragen!
+Du brauchst mehr [#FF0000]MUT[#000000], wenn du\nvorhast, das zu tragen.
+Du [#FF0000]kannst nicht so viele Schichten[#000000] tragen!
+Du kannst nicht [#FF0000]zwei Objekte an der gleichen Stelle[#000000] tragen.\nWarum? Darum. Und damit basta.
+Du kannst dieses Objekt [#FF0000]nicht tragen[#000000]!
+Aber du würdest mit Sicherheit ein paar\nziemlich erstaunte Blicke ernten.
+Du kannst keine weiteren\nPins dieser Art tragen.
+[#FF0000]Du kannst diesen Pin nicht verkaufen![#000000]\nEr ist mehr wert als alles\nGeld der Welt.
+Dein Vorrat ist voll!\nDu kannst maximal [#FF0000]200 Pins[#000000] aufbewahren.\nEntsorge [#FF0000]\xff\xd0 weitere Pins [#000000] aus dem Ordner \x22Vorrat\x22\noder aus deinen Sets.
+Dein Vorrat ist voll!\nDu kannst maximal [#FF0000]200 Pins[#000000] aufbewahren.\nEntsorge [#FF0000]\xff\xd0 weiteren Pin [#000000] aus dem Ordner \x22Vorrat\x22\noder aus deinen Sets.
+Du hast dein [#FF0000]Klassenlimit[#000000] überschritten!\nDu kannst immer nur [#FF0000]einen Pin der Klasse \x22Engel\x22[#000000]\ntragen.
+Du hast dein [#FF0000]Klassenlimit[#000000] überschritten!\nDu kannst immer nur [#FF0000]einen Pin der Klasse \x22Reaper\x22[#000000]\ntragen.
+Du hast dein [#FF0000]Klassenlimit[#000000] überschritten!\nDu kannst maximal [#FF0000]einen Pin der Klasse \x22A\x22[#000000]\nmit dem [#FF0000]gleichen Psych (PSY)[#000000] tragen.
+Du hast dein [#FF0000]Klassenlimit[#000000] überschritten!\nDu kannst maximal [#FF0000]zwei Pins der Klasse \x22B\x22[#000000]\nmit dem [#FF0000]gleichen Psych (PSY)[#000000] tragen.
+Du hast dein [#FF0000]Klassenlimit[#000000] überschritten!\nDu kannst maximal [#FF0000]drei Pins der Klasse \x22C\x22[#000000]\nmit dem [#FF0000]gleichen Psych (PSY)[#000000] tragen.
+Achtung:\nDeine [#FF0000]Geldbörse[#000000] ist voll, deshalb\nverdienst du durch das Entsorgen weiterer Pins\nnicht mehr [#FF0000]Geld[#000000].
+[#0808FF]\xff\xd2[#000000]
+× \xff\xd0
+... Du besitzt: \xff\xd0
+ ... [#FF0000]Du besitzt: \xff\xd0
+[#FF0000]\xff\xd0 $
+\xff\xd0 $
+\xff\xd0.\xff\xd0\xff\xd0\xff\xd0 $
+\xff\xd0.\xff\xd0\xff\xd0\xff\xd0.\xff\xd0\xff\xd0\xff\xd0 $
+[#FF0000]\xff\xd0 $
+[#FF0000]\xff\xd0.\xff\xd0\xff\xd0\xff\xd0 $
+[#FF0000]\xff\xd0.\xff\xd0\xff\xd0\xff\xd0.\xff\xd0\xff\xd0\xff\xd0 $
+Diesen Artikel kaufen?
+Diesen Pin verkaufen?
+[#FF0000]Sortiere deine Pins[#000000] 
+Nach Nummer sortieren
+Immer nach Nummer sortieren
+Nach Psych sortieren
+Immer nach Psych sortieren
+Pins immer sortieren
+Diese Gegend ist von\neinem besonderen\nKraftfeld umgeben.\n\n[#FF0000]\xff\xd2[#000000]\n\nist die einzige Marke,\nderen Pins hier zu\nfunktionieren scheinen.
+In dieser Gegend\nscheinen Trends keinen\nEinfluss zu haben.
+Titel 1: \x22Economical Shoppers\x22
+Titel 2: \x22Black Market\x22
+Titel 3: \x22It Is Fashionable\x22
+[#FF0000]QUEST-OBJEKT[#000000]
+Möchtest du deine Objekte dafür [#FF0000]eintauschen[#000000]?
+[#FF0000]Du kannst nicht mehr tragen![#000000]
+Wenn du noch ein Objekt mit dir herumschleppst,\nbrichst du vielleicht unter einem ganzen Haufen Zeug zusammen.
+Regen.: [#FF0000]\xff\xd0[#000000] %
+Nach anderen Händlern wird gesucht ...
+Drücke zum Beenden auf ABBRECHEN.
+Erster Kontakt mit\n\xff\xd2!
+\xff\xd0. Treffen mit\n\xff\xd2!
+Erhalten: \x22\xff\xd2\x22.
+Daten von Freunden können nicht hinzugefügt werden.
+Einrichtung deines Profils
+Hast du ein Twitter-Konto?\nRichte es mit der Schaltfläche auf der rechten Seite ein.
+Einrichtung deines Twitter-Kontos
+Wenn du dein Twitter-Konto einrichtest, können Leute,\nmit denen du Freundeskarten tauschst, in der Spielwelt deine Tweets sehen.
+Anmeldung erfolgreich.
+Du hast dich angemeldet.
+Freundeskarten werden getauscht ...
+Kommunikationsfehler!
+Freundeskarten können nicht getauscht werden.
+\xff\xd2.\xff\xd2.\xff\xd2
+Twitter-Einstellungen
+Bitte warten ...
+Daten werden aktualisiert ...
+Erfolg
+Alle Tweets wurden aktualisiert.
+Fehler
+Daten können nicht empfangen werden.
+Übertragung beendet.
+Es können keine gültigen Daten von Freunden abgerufen werden.
+Abgebrochen
+Vorgang abgebrochen.
+Freundesliste
+Freundeskarte löschen
+Willst du \xff\xd2\nwirklich löschen?
+Deine Freundesliste ist voll.
+Um weitere Freunde hinzuzufügen,\nmusst du zuerst ein paar Freundeskarten löschen.
+Vergiss nicht, dass bei Twitter-Suchen zufällig Text aus diesem\nverwerflichen Ort namens Internet gezogen wird.\nHalte die Hand vor die Augen! Verstecke deine Kinder! (Oder aktiviere die Funktion einfach nicht.)
+Es können keine gültigen Tweets abgerufen werden.
+Bluetooth scheint nicht aktiviert zu sein.\nBitte überprüfe deine Einstellungen und versuche es erneut.
+Fertigungsmaterial-Set x 1
+Gourmet-Reisbällchen x 1 (Essen)
+100.000 Yen x 1 (Pin)
+Zusätzliche CD: Titel 61 (Zeug)
+Zusätzliche CD: Titel 62 (Zeug)
+Zusätzliche CD: Titel 63 (Zeug)
+Zusätzliche CD: Titel 64 (Zeug)
+Zusätzliche CD: Titel 65 (Zeug)
+Zusätzliche CD: Titel 66 (Zeug)
+Zusätzliche CD: Titel 67 (Zeug)
+Zusätzliche CD: Titel 68 (Zeug)
+Zusätzliche CD: Titel 69 (Zeug)
+Ein Material-Set, das aus jeweils einem Stück\nScharlachit, dunkler Materie und Orichalkum besteht.
+Verbraucht 1 Bissen.\nANG: +10, VER: +10, MUT: +10, Max. LP +100.
+Ein Pin, den du für 100.000 Yen verkaufen kannst.\n(Achte darauf, dass in deiner Geldbörse Platz ist!)
+MMM: 001/The World Ends with You\nTippe auf deine Songs im Objektmenü, um sie anzuhören.
+TWISTER -KINGDOM REMIX-\nTippe auf deine Songs im Objektmenü, um sie anzuhören.
+DTM -Crossover-\nTippe auf deine Songs im Objektmenü, um sie anzuhören.
+Twister -Crossover-\nTippe auf deine Songs im Objektmenü, um sie anzuhören.
+Twister Gang Remix\nTippe auf deine Songs im Objektmenü, um sie anzuhören.
+Twister -???-\nTippe auf deine Songs im Objektmenü, um sie anzuhören.
+Three Minutes Clapping -No Clapping-\nTippe auf deine Songs im Objektmenü, um sie anzuhören.
+Long Dream -Parallel Mix-\nTippe auf deine Songs im Objektmenü, um sie anzuhören.
+Déjà vu -Sanctuary Mix-\nTippe auf deine Songs im Objektmenü, um sie anzuhören.
+Du musst dein Konto aufladen,\num Spielobjekte und -inhalte zu kaufen.
+Bei der Neuinstallation oder dem Start eines neuen Spiels werden die\nDaten für verkäufliche und verwendbare Objekte gelöscht.\nDiese Daten bekommst du mit der Option WIEDERHERSTELLEN wieder zurück.
+Kauf abgeschlossen!
+Wiederherstellung abgeschlossen!
+Kauf nicht möglich.
+Es können keine weiteren Käufe getätigt werden.
+Du besitzt dieses Objekt bereits.
+Kauf mit der aktuellen Geldbörse nicht möglich.
+Wechsle in den Co-op-Modus, indem du mit 2 Joy-Con™ spielst.
+Partner
+Nach Spielabschluss kannst du deinen Partner im Item Menü ändern.
+Im VORRAT-Tab
+Im GEMEISTERT-Tab
+Germany_OPTION_TOP
+Germany_OPTION_DEFAULT
+Germany_POINTERSENSITIVITY
+Germany_SLOW
+Germany_NORMAL
+Germany_FAST
+Germany_VIBRATION
+Germany_OFF
+Germany_ON
+Germany_BGM_ARRANGE
+Germany_ORIGINAL
+Germany_ARRANGE
+Ein neuer Tag \xff\xd0
+? ? ?

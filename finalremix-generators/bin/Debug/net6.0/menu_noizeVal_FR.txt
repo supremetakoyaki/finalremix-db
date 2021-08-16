@@ -1,0 +1,11 @@
+.\xff\xd0\xff\xd0 ％
+.
+ %
+? ? ?
+Meilleur temps
+\xff\xd0\xff\xd0'\xff\xd0\xff\xd0\x22\xff\xd0\xff\xd0
+FranceTIME_SINGLE
+\x22
+No. 
+Niv. le plus bas
+Vaincu

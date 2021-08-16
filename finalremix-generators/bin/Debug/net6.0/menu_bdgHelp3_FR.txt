@@ -1,0 +1,1 @@
+       Poids :\n       Tour(s) :\n       Longueur du KO :\n\n       COUPS :\n　　　  Pique　×　　　　Bombardier　×\n　　　  Marteau　×　　　　Main　×
