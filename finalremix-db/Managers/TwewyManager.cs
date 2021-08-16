@@ -929,12 +929,15 @@ namespace FinalRemixDb
             {
                 case 0:
                 default:
-                    return Item.Index;
+                    return -1;
 
                 case 1:
-                    return Item.Index + 280;
+                    return Item.Index;
 
                 case 2:
+                    return Item.Index + 280;
+
+                case 3:
                     return Item.Index + 323;
             }
         }
