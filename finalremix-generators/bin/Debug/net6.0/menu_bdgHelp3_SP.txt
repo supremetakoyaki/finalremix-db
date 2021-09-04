@@ -1,1 +1,0 @@
-       Peso :\n       Efecto :\n       Tiempo KO :\n\n       GOLPETAZOS :\n        Aguijón　×　　　　Bomba　×\n        Mazo　×　　　　　Mano　×
