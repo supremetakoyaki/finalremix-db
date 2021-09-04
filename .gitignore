@@ -2,3 +2,5 @@
 .vs/
 finalremix-db/obj/
 finalremix-db/bin/
+finalremix-generators/obj/
+finalremix-generators/bin/
